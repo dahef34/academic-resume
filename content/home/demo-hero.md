@@ -1,22 +1,22 @@
 ---
+cta_note:
+  label: '<div style="text-shadow: none;"><a class="github-button"
+    href="https://github.com/dahef34" data-icon="octicon-star" data-size="large"
+    data-show-count="true" aria-label="Star">GitHub projects</a></div><div
+    style="text-shadow: none;">'
 widget: hero
-headless: true
-weight: 10
-title: CDR Justin Hefley
-#hero_media: hero-academic.png
 cta:
   label: Ask a question
   url: https://twitter.com/HefleyJustin
-cta_note:
-  label: >-
-    <div style="text-shadow: none;"><a class="github-button" href="https://github.com/dahef34" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">GitHub projects</a></div><div style="text-shadow: none;">
+widget_id: hero
+headless: true
+weight: 10
+title: CDR Justin Hefley
 design:
   background:
-    gradient_end: '#20245D'
-    gradient_start: '#3E3F3E'
+    gradient_end: "#20245D"
+    gradient_start: "#520101"
     text_color_light: true
-# advanced:
-#   css_class: fullscreen
 ---
 
 
