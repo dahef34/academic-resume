@@ -6,3 +6,5 @@ weight: 11
 ---
 
 Hello
+
+{{< cta cta_text="next" cta_link="canvas" >}}

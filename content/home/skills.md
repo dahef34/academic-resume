@@ -23,11 +23,11 @@ feature:
   - description: 100%
     icon: chart-line
     icon_pack: fas
-    name: Statistics
+    name: Flutter
   - description: 10%
-    icon: camera-retro
+    icon: house-medical
     icon_pack: fas
-    name: Photography
+    name: EBP
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
