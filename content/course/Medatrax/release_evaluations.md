@@ -10,5 +10,5 @@ weight: 31
 
 This step should happen weekly at a minimum to track the progress of students.
 
-{{< embed-pdf url="./course/Release_Evaluations.pdf" >}}
+{{< embed-pdf url="/course/Release_Evaluations.pdf" >}}
 

@@ -9,5 +9,5 @@ weight: 22
 
 ## Change Grade in Canvas
 
-{{< embed-pdf url="./course/Canvas_grading.pdf" >}}
+{{< embed-pdf url="/course/Canvas_grading.pdf" >}}
 
