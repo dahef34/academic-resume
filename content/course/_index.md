@@ -24,5 +24,5 @@ weight: 10
 
 
 
-{{< cta cta_text="Begin the course" cta_link="intro" >}}
+[Next]({{< ref "/course/canvas" >}})
 

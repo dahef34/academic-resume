@@ -11,4 +11,4 @@ weight: 22
 
 {{< embed-pdf url="/course/Canvas_grading.pdf" >}}
 
-{{< cta cta_text="next" cta_link="medatrax" >}}
+[Next]({{< ref "/course/medatrax" >}})
