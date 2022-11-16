@@ -77,4 +77,4 @@ highlight_name: true
 
 Dr. Justin Hefley is the Assistant Site Director for the Phase II Nurse Anesthesia Program at Naval Medical Center Camp Lejeune. Dr. Hefley was commissioned in the Navy in 2006 after completing his BSN at East Central University in Oklahoma. His first assignment was as a Mother-Infant nurse at Naval Hospital Camp Pendleton. After transitioning to the Post Anesthesia Care Unit and eventually to the Intensive Care Unit, he completed a rigorous course of study at the Uniformed Services University of the Health Sciences where he earned a Doctorate of Nursing Practice and became a Certified Registered Nurse Anesthetist in 2016. His first years as a nurse anesthetist were spent at United States Naval Hospital Okinawa, Japan where he served as the Chief CRNA. He went on to be an Assistant Professor at the Uniformed Services University of the Health Sciences and was the Assistant Site Director at Naval Hospital Jacksonville for the RNA program.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
