@@ -2,7 +2,7 @@
 title: Slides
 date: 2019-02-05T00:00:00Z
 summary: Increasing Operational Readiness with Evidence-based practice
-draft: true
+draft: false
 tags: []
 slides:
   theme: white

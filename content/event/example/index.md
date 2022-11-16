@@ -5,7 +5,7 @@ links:
 event: TriService Nursing Research Program Dissemination Course
 publishDate: 2021-04-08T00:00:00Z
 slides: example
-draft: true
+draft: false
 url_pdf: ""
 summary: A talk about enhancing operational readiness through evidence-based practice
 date_end: 2030-06-01T15:00:00Z
