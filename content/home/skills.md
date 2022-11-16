@@ -24,7 +24,7 @@ feature:
     icon: chart-line
     icon_pack: fas
     name: Flutter
-  - description: 10%
+  - description: 90%
     icon: house-medical
     icon_pack: fas
     name: EBP

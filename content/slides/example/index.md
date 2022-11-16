@@ -1,167 +1,85 @@
 ---
 title: Slides
 date: 2019-02-05T00:00:00Z
-summary: An introduction to using Wowchemy's Slides feature.
+summary: Increasing Operational Readiness with Evidence-based practice
 draft: true
 tags: []
 slides:
-  theme: black
+  theme: white
   highlight_style: dracula
 authors: []
 categories: []
 ---
 
-# Create slides in Markdown with Wowchemy
+## Increasing Operational Readiness with Evidence-based practice
 
-[Wowchemy](https://wowchemy.com/) | [Documentation](https://wowchemy.com/docs/content/slides/)
+### Justin Hefley, DNP, CRNA
 
----
+{{< figure src="logo.png" width="200px" height="200px">}}
 
-## Features
 
-- Efficiently write slides in Markdown
-- 3-in-1: Create, Present, and Publish your slides
-- Supports speaker notes
-- Mobile friendly slides
 
 ---
 
-## Controls
+## About Me
 
-- Next: `Right Arrow` or `Space`
-- Previous: `Left Arrow`
-- Start: `Home`
-- Finish: `End`
-- Overview: `Esc`
-- Speaker notes: `S`
-- Fullscreen: `F`
-- Zoom: `Alt + Click`
-- [PDF Export](https://revealjs.com/pdf-export/)
+- Multiple roles over the years from mother-baby nurse to CRNA
+- Currently stationed at Camp Lejeune but have previously been on both coasts and in Japan.
 
 ---
 
-## Code Highlighting
+### EBP Experience
+- Prevention of pruritis following spinal morphine for scheduled cesarean birth. MCN: The American Journal of Maternal/Child Nursing, 46(2), 97–102. https://doi.org/10.1097/NMC.0000000000000693
+- An evidence-based approach to implementing ultrasound-guided peripheral intravenous practices on a multi-service unit. MEDSURG Nursing, 30(3).
+- Training Program for Ultrasound-Guided Intravenous Catheter Insertion. Military Medicine. https://doi.org/10.1093/milmed/usab176
+- Resuming Breastfeeding After Surgery: Influencing Practice Recommendations. Journal of PeriAnesthesia Nursing. https://doi.org/10.1016/j.jopan.2020.12.010
 
-Inline code: `variable`
-
-Code block:
-
-```python
-porridge = "blueberry"
-if porridge == "blueberry":
-    print("Eating...")
-```
 
 ---
 
-## Math
+## Why EBP?
 
-In-line math: $x + y = z$
+#### The Easy Part
 
-Block math:
+- National Defense Strategy
+- Navy Surgeon General Priorities
+- Navy Nurse Corps Philosophy
+- Navy Nurse Corps Strategic Goals
 
-$$
-f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$
-
----
-
-## Fragments
-
-Make content appear incrementally
-
-```
-{{%/* fragment */%}} One {{%/* /fragment */%}}
-{{%/* fragment */%}} **Two** {{%/* /fragment */%}}
-{{%/* fragment */%}} Three {{%/* /fragment */%}}
-```
-
-Press `Space` to play!
-
-{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
 
 ---
 
-A fragment can accept two optional parameters:
+## NDS 2018
 
-- `class`: use a custom style (requires definition in custom CSS)
-- `weight`: sets the order in which a fragment appears
+The National Defense Strategy, laid out in 2018, defined three lines of effort: 
+ - Building a more lethal force
+ - Strengthening alliances and attracting new partners 
+ - Reforming the department for greater performance and affordability.
 
----
-
-## Speaker Notes
-
-Add speaker notes to your presentation
-
-```markdown
-{{%/* speaker_note */%}}
-
-- Only the speaker can read these notes
-- Press `S` key to view
-  {{%/* /speaker_note */%}}
-```
-
-Press the `S` key to view the speaker notes!
-
-{{< speaker_note >}}
-
-- Only the speaker can read these notes
-- Press `S` key to view
-  {{< /speaker_note >}}
 
 ---
 
-## Themes
+## Navy Surgeons General
 
-- black: Black background, white text, blue links (default)
-- white: White background, black text, blue links
-- league: Gray background, white text, blue links
-- beige: Beige background, dark text, brown links
-- sky: Blue background, thin dark text, blue links
+- *People*
+- *Platforms*
+- *Performance*
+- *Power*
 
----
-
-- night: Black background, thick white text, orange links
-- serif: Cappuccino background, gray text, brown links
-- simple: White background, black text, blue links
-- solarized: Cream-colored background, dark green text, blue links
 
 ---
 
-{{< slide background-image="/media/boards.jpg" >}}
+## Navy Nurse Corps
 
-## Custom Slide
+- *Readiness*
+- *Relevance*
+- *Resiliency*
 
-Customize the slide style and background
-
-```markdown
-{{</* slide background-image="/media/boards.jpg" */>}}
-{{</* slide background-color="#0000FF" */>}}
-{{</* slide class="my-style" */>}}
-```
 
 ---
 
-## Custom CSS Example
+## Navy Nurse Corps Admiral
 
-Let's make headers navy colored.
-
-Create `assets/css/reveal_custom.css` with:
-
-```css
-.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
-```
-
----
-
-# Questions?
-
-[Ask](https://discord.gg/z8wNYzb)
-
-[Documentation](https://wowchemy.com/docs/content/slides/)
+- *Lead*
+- *Learn*
+- *Love*
