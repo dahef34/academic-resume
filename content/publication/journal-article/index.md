@@ -1,14 +1,20 @@
 ---
-title: "An example journal article 2"
+title: "Training Program for Ultrasound-Guided Intravenous Catheter Insertion."
 authors:
+- Samantha Filipovich
+- John Dilgard
+- Simon Conrad
+- Chad Moore
 - admin
-- Robert Ford
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
-draft: true
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+date: "2021-08-28T00:00:00Z"
+doi: "10.1093/milmed/usab176"
+draft: false
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
 
@@ -19,13 +25,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Military Medicine*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: "INTRODUCTION: Ultrasound guidance is now widely available in military treatment facilities and civilian hospitals alike, both in the USA and in forward-deployed  military environments. Technical mastery of ultrasound-guided peripheral  intravenous (USGPIV) catheter insertion can be easily achieved through a short  training course. Mastery can be achieved even when trainees have a limited  medical background before course attendance. An evidence-based practice project  team sought to improve the knowledge, confidence, and skills in the placement of  USGPIV catheters by clinicians at Naval Hospital Jacksonville. Completion of an  USGPIV training program can equip healthcare providers with knowledge and  confidence for placement of peripheral access necessary in critical situations  such as those requiring medications or blood products. MATERIALS AND METHODS: The  project team conducted a literature review to evaluate the appropriateness of  USGPIV training for the nurses and military medical technicians in this setting.  The team developed and delivered a USGPIV training program based on adaptations  from the literature. During the training period, knowledge and confidence scores  were reported by each trainee to evaluate the perceptions of the quality of  training. The number of attempted catheter placements and ultrasound utilization  was recorded in the pre- and post-implementation periods to evaluate the  project's effect on the delivery of patient care. Statistical analysis was  conducted to evaluate project outcomes. RESULTS: In the pre-intervention period,  none of the 252 intravenous catheters were placed with the USGPIV technique,  compared to 50 of 267 in the post-intervention period. These results demonstrate  an 18.7% increase in the USGPIV access approach by nursing staff. Mean knowledge  scores significantly increased following the delivery of the training, 60% versus  80% in the pre- and post-training assessments, respectively (P < .001). Mean  self-reported skill confidence scores also significantly improved (P < .001).  CONCLUSION: Knowledge and self-reported confidence in USGPIV access improved for  the trainees. Mean knowledge improved from 60% to 80%, while mean confidence  scores increased from 2.74 to 3.79 for corpsman and from 3.0 to 3.88 for nurses.  Utilization of the USGPIV technique increased by 18.7% in the post-intervention  period. These results demonstrate that implementing this training program can  improve knowledge, confidence, and use of ultrasound during the placement of PIV  catheters."
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
 - Source Themes
@@ -45,10 +51,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
+#image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+#  focal_point: ""
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -62,15 +68,11 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 ---
 
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

@@ -1,16 +1,24 @@
 ---
-title: "An example journal article 4"
+title: "Prevention of Pruritis following Spinal Morphine for Scheduled Cesarean Birth."
 authors:
+- Christopher Payne
+- Brian Curtis
+- Devon Dan
+- Shaun Dunston
+- Chad Moore
 - admin
-- Robert Ford
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
-draft: true
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+date: "2021-04-01T00:00:00Z"
+doi: "10.1097/NMC.0000000000000693"
+draft: false
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-04-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,13 +27,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*The American journal of maternal child nursing*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: "BACKGROUND: Intrathecal morphine provides effective analgesia after cesarean birth, yet up to 90% of women who receive it experience excessive itching, an  undesirable dose-dependent effect. Pruritis may increase nursing workload, delay  breastfeeding, and decrease patient satisfaction. When 0.1 mg spinal morphine is  given, pruritis is markedly reduced while analgesia is preserved. PURPOSE: The  purpose of this project was to determine possible causes and solutions for  pruritus after cesarean birth. METHODS: Anesthesia providers were educated and  encouraged to limit spinal morphine to 0.1 mg as a strategy to prevent pruritus.  In a repeated measures design, the rate of treatment-required pruritus and opioid  consumption were measured 24 hours after surgery. The project included an  evaluation of 30 medical records before and 30 medical records after the project  intervention. RESULTS: Preintervention rate of treatment-required pruritis was  37%, all received spinal morphine ≥ 1.5 mg. Postintervention rate of  treatment-required pruritis was 13% and 57% after spinal morphine 0.1 mg and 0.2  mg, respectively. Opioid consumption was similar between groups. CLINICAL  IMPLICATIONS: Mother-baby nurses can have an impact on the practice of anesthesia  providers by advocating for evidence-based dosing of intrathecal morphine to  reduce the incidence of pruritis while maintaining effective analgesia for women  after cesarean birth."
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
 - Source Themes
@@ -34,8 +42,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: 
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -45,10 +53,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
+#image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+#  focal_point: ""
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -69,8 +77,4 @@ slides: example
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
