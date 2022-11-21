@@ -1,392 +1,60 @@
 ---
-title: Writing technical content in Markdown
-date: 2019-07-12
+title: Flipped classroom approach to clinical seminar
+date: 2022-11-20
 math: true
-draft: true
+draft: false
 image:
   placement: 2
-  caption: "Image credit: [**John Moeses
-    Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)"
+  caption: "Image credit: [**Uuganmn**](https://commons.wikimedia.org/wiki/File:Richard_feynman_-_fermilab1.jpg)"
 ---
 
-Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.
-
-**Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.**
-
-On this page, you'll find some examples of the types of technical content that can be rendered with Wowchemy.
-
-## Examples
-
-### Code
-
-Wowchemy supports a Markdown extension for highlighting code syntax. You can customize the styles under the `syntax_highlighter` option in your `config/_default/params.yaml` file.
-
-    ```python
-    import pandas as pd
-    data = pd.read_csv("data.csv")
-    data.head()
-    ```
-
-renders as
-
-```python
-import pandas as pd
-data = pd.read_csv("data.csv")
-data.head()
-```
-
-### Mindmaps
-
-Wowchemy supports a Markdown extension for mindmaps.
-
-Simply insert a Markdown `markmap` code block and optionally set the height of the mindmap as shown in the example below.
-
-A simple mindmap defined as a Markdown list:
-
-<div class="highlight">
-<pre class="chroma">
-<code>
-```markmap {height="200px"}
-- Hugo Modules
-  - wowchemy
-  - wowchemy-plugins-netlify
-  - wowchemy-plugins-netlify-cms
-  - wowchemy-plugins-reveal
-```
-</code>
-</pre>
-</div>
-
-renders as
-
-```markmap {height="200px"}
-- Hugo Modules
-  - wowchemy
-  - wowchemy-plugins-netlify
-  - wowchemy-plugins-netlify-cms
-  - wowchemy-plugins-reveal
-```
-
-A more advanced mindmap with formatting, code blocks, and math:
-
-<div class="highlight">
-<pre class="chroma">
-<code>
-```markmap
-- Mindmaps
-  - Links
-    - [Wowchemy Docs](https://wowchemy.com/docs/)
-    - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/wowchemy/wowchemy-hugo-themes)
-  - Features
-    - Markdown formatting
-    - **inline** ~~text~~ *styles*
-    - multiline
-      text
-    - `inline code`
-    -
-      ```js
-      console.log('hello');
-      console.log('code block');
-      ```
-    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-```
-</code>
-</pre>
-</div>
-
-renders as
-
-```markmap
-- Mindmaps
-  - Links
-    - [Wowchemy Docs](https://wowchemy.com/docs/)
-    - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/wowchemy/wowchemy-hugo-themes)
-  - Features
-    - Markdown formatting
-    - **inline** ~~text~~ *styles*
-    - multiline
-      text
-    - `inline code`
-    -
-      ```js
-      console.log('hello');
-      console.log('code block');
-      ```
-    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-```
+# The NCE
 
-### Charts
+> The NBCRNA administers the National Certification Exam (NCE) to measure the knowledge, skills, and abilities necessary for entry-level nurse anesthesia practitioners. The NCE is a variable-length computerized adaptive test for entry into nurse anesthesia practice. 
 
-Wowchemy supports the popular [Plotly](https://plot.ly/) format for interactive charts.
+This test ***"for entry into nurse anesthesia practice"*** tests higher order knowledge meaning that simply being able to regurgitate the textbook is not enough.  Students must be able to synthesize knowledge and understand it to the degree that they can apply it in clinical situations.  This is actually much harder to achieve than you might think.  In a traditional didactic classroom based approach this depth of understanding of the material is left to the purview of the student.  The problem with this approach is sometimes you don't know what you don't know.  How can we ensure our students are truly understanding the material and not just regurgitating what was read in the textbook?
 
-Save your Plotly JSON in your page folder, for example `line-chart.json`, and then add the `{{</* chart data="line-chart" */>}}` shortcode where you would like the chart to appear.
+For adult learners, I find it works best for the students to use a flipped classroom approach where the students read the material and develop their own understanding of the content before presenting it to the other instructors and students.  This method requires the students to read and engage the literature to develop their own knowledge and understanding of the topic.  To accomplish this, I use a combination of the **Feynman Technique** and the socratic method to help develop that understanding.
 
-Demo:
 
-{{< chart data="line-chart" >}}
+Richard Feynman was a world renowned  theoretical physicist who won the Nobel Prize in 1965. He was brilliant in his own right.
 
-You might also find the [Plotly JSON Editor](http://plotly-json-editor.getforge.io/) useful.
+Feynman developed this method for learning and internalizing topics. Now known as the Feynman technique, this simple process has 4 steps:
 
-### Math
+# Step 1 – Study
 
-Wowchemy supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the `math` option in your `config/_default/params.yaml` file.
+The first step is a no-brainer.  Study the topic in question.  We provide our students with a list of topics each semester and when they are due.
+You have the students start by writing down everything they know about the topic and break the topic down into it's core components.  I find that mindmaps work well for this stage as the students can see how all of the components relate and formulate an understanding of how the components interact.  Students already do this to some degree as they are studying, but if not, encourage them to write down everything they know about a topic before actually starting the study process.  In the clinical arena, students have already been exposed to these concepts through their didactic education as well as through their patients.  If they explore their knowledge before reengaging the content in the textbook they will develop a better appreciation for how important reading the textbook is to their learning.  Otherwise rereading the textbook reinforces prior learning and it is all too easy to think that they didn't really need to read again.
 
-To render _inline_ or _block_ math, wrap your LaTeX math with `{{</* math */>}}$...${{</* /math */>}}` or `{{</* math */>}}$$...$${{</* /math */>}}`, respectively. (We wrap the LaTeX math in the Wowchemy _math_ shortcode to prevent Hugo rendering our math as Markdown. The _math_ shortcode is new in v5.5-dev.)
 
-Example **math block**:
+# Step 2 – Teach
+Once they have studied the topic, it’s time for step 2. They have to teach it to someone else.  I encourage students to do this at home as well and not just in the classroom setting.  The shared mental model of a doctoral classroom allows us to gloss over lower level concepts that might fundamentally contribute to a misunderstanding of the concept at some level. With the time constraints of a typical didactic lecture this is necessary to some degree, but is avoided in this approach.  I recommend that the students try to explain the concept to their spouse, child, or friend that is not in the program.
 
-```latex
-{{</* math */>}}
-$$
-\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}
-$$
-{{</* /math */>}}
-```
+The person being taught should not just be an active listener, but an active participant.  In other words, they should be trying to learn the content.  Stopping the student to ask questions and clarify content as they need to understand it.  In the flipped classroom approach, this is often up to the instructor to play this part. Have the student explain concepts not only when you detect something is not fully understood, but also when the concept is not explained simply enough.  This process can be uncomfortable for all involved and the student often does not like having their train of thought interupted, but this part is crucial for step 3.
 
-renders as
-
-{{< math >}}
-$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
-{{< /math >}}
-
-Example **inline math** `{{</* math */>}}$\nabla F(\mathbf{x}_{n})${{</* /math */>}}` renders as {{< math >}}$\nabla F(\mathbf{x}_{n})${{< /math >}}.
-
-Example **multi-line math** using the math linebreak (`\\`):
-
-```latex
-{{</* math */>}}
-$$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
-1-p_{0}^{*} & \text{if }k=0.\end{cases}$$
-{{</* /math */>}}
-```
-
-renders as
-
-{{< math >}}
-
-$$
-f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
-1-p_{0}^{*} & \text{if }k=0.\end{cases}
-$$
-
-{{< /math >}}
-
-### Diagrams
-
-Wowchemy supports a Markdown extension for diagrams. You can enable this feature by toggling the `diagram` option in your `config/_default/params.toml` file or by adding `diagram: true` to your page front matter.
-
-An example **flowchart**:
-
-    ```mermaid
-    graph TD
-    A[Hard] -->|Text| B(Round)
-    B --> C{Decision}
-    C -->|One| D[Result 1]
-    C -->|Two| E[Result 2]
-    ```
-
-renders as
-
-```mermaid
-graph TD
-A[Hard] -->|Text| B(Round)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
-```
-
-An example **sequence diagram**:
-
-    ```mermaid
-    sequenceDiagram
-    Alice->>John: Hello John, how are you?
-    loop Healthcheck
-        John->>John: Fight against hypochondria
-    end
-    Note right of John: Rational thoughts!
-    John-->>Alice: Great!
-    John->>Bob: How about you?
-    Bob-->>John: Jolly good!
-    ```
-
-renders as
-
-```mermaid
-sequenceDiagram
-Alice->>John: Hello John, how are you?
-loop Healthcheck
-    John->>John: Fight against hypochondria
-end
-Note right of John: Rational thoughts!
-John-->>Alice: Great!
-John->>Bob: How about you?
-Bob-->>John: Jolly good!
-```
-
-An example **Gantt diagram**:
-
-    ```mermaid
-    gantt
-    section Section
-    Completed :done,    des1, 2014-01-06,2014-01-08
-    Active        :active,  des2, 2014-01-07, 3d
-    Parallel 1   :         des3, after des1, 1d
-    Parallel 2   :         des4, after des1, 1d
-    Parallel 3   :         des5, after des3, 1d
-    Parallel 4   :         des6, after des4, 1d
-    ```
-
-renders as
-
-```mermaid
-gantt
-section Section
-Completed :done,    des1, 2014-01-06,2014-01-08
-Active        :active,  des2, 2014-01-07, 3d
-Parallel 1   :         des3, after des1, 1d
-Parallel 2   :         des4, after des1, 1d
-Parallel 3   :         des5, after des3, 1d
-Parallel 4   :         des6, after des4, 1d
-```
-
-An example **class diagram**:
-
-    ```mermaid
-    classDiagram
-    Class01 <|-- AveryLongClass : Cool
-    Class03 *-- Class04
-    Class05 o-- Class06
-    Class07 .. Class08
-    Class09 --> C2 : Where am i?
-    Class09 --* C3
-    Class09 --|> Class07
-    Class07 : equals()
-    Class07 : Object[] elementData
-    Class01 : size()
-    Class01 : int chimp
-    Class01 : int gorilla
-    Class08 <--> C2: Cool label
-    ```
-
-renders as
-
-```mermaid
-classDiagram
-Class01 <|-- AveryLongClass : Cool
-Class03 *-- Class04
-Class05 o-- Class06
-Class07 .. Class08
-Class09 --> C2 : Where am i?
-Class09 --* C3
-Class09 --|> Class07
-Class07 : equals()
-Class07 : Object[] elementData
-Class01 : size()
-Class01 : int chimp
-Class01 : int gorilla
-Class08 <--> C2: Cool label
-```
-
-An example **state diagram**:
-
-    ```mermaid
-    stateDiagram
-    [*] --> Still
-    Still --> [*]
-    Still --> Moving
-    Moving --> Still
-    Moving --> Crash
-    Crash --> [*]
-    ```
-
-renders as
-
-```mermaid
-stateDiagram
-[*] --> Still
-Still --> [*]
-Still --> Moving
-Moving --> Still
-Moving --> Crash
-Crash --> [*]
-```
-
-### Todo lists
-
-You can even write your todo lists in Markdown too:
-
-```markdown
-- [x] Write math example
-  - [x] Write diagram example
-- [ ] Do something else
-```
-
-renders as
-
-- [x] Write math example
-  - [x] Write diagram example
-- [ ] Do something else
-
-### Tables
-
-Save your spreadsheet as a CSV file in your page's folder and then render it by adding the _Table_ shortcode to your page:
-
-```go
-{{</* table path="results.csv" header="true" caption="Table 1: My results" */>}}
-```
-
-renders as
-
-{{< table path="results.csv" header="true" caption="Table 1: My results" >}}
-
-### Callouts
-
-Academic supports a [shortcode for callouts](https://wowchemy.com/docs/content/writing-markdown-latex/#callouts), also referred to as _asides_, _hints_, or _alerts_. By wrapping a paragraph in `{{%/* callout note */%}} ... {{%/* /callout */%}}`, it will render as an aside.
-
-```markdown
-{{%/* callout note */%}}
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{%/* /callout */%}}
-```
-
-renders as
-
-{{% callout note %}}
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{% /callout %}}
-
-### Spoilers
-
-Add a spoiler to a page to reveal text, such as an answer to a question, after a button is clicked.
-
-```markdown
-{{</* spoiler text="Click to view the spoiler" */>}}
-You found me!
-{{</* /spoiler */>}}
-```
-
-renders as
-
-{{< spoiler text="Click to view the spoiler" >}} You found me! {{< /spoiler >}}
-
-### Icons
-
-Academic enables you to use a wide range of [icons from _Font Awesome_ and _Academicons_](https://wowchemy.com/docs/getting-started/page-builder/#icons) in addition to [emojis](https://wowchemy.com/docs/content/writing-markdown-latex/#emojis).
-
-Here are some examples using the `icon` shortcode to render icons:
-
-```markdown
-{{</* icon name="terminal" pack="fas" */>}} Terminal  
-{{</* icon name="python" pack="fab" */>}} Python  
-{{</* icon name="r-project" pack="fab" */>}} R
-```
-
-renders as
-
-{{< icon name="terminal" pack="fas" >}} Terminal  
-{{< icon name="python" pack="fab" >}} Python  
-{{< icon name="r-project" pack="fab" >}} R
-
-### Did you find this page helpful? Consider sharing it 🙌
+I like to use the socratic method here.
+
+> Socrates describes himself not as a teacher but as an ignorant inquirer
+
+By asking probing questions, the student has to keep going deeper and deeper into the well of understanding to fully explain the concepts.  This process should uncover more weaknesses in their logic and knowledge of the content.  If no weaknesses are found then congratulations you are done.  If some are found them move on to step 3.
+
+
+# Step 3 – Fill the Gaps
+
+Step 2 should uncover some gaps in the knowledge base.  In step 3, the student will start over at Step 1 to add in the elements that they were weak on and turn them into strengths.  In the filpped classroom approach, I have an open book and phone-a-friend policy. The student that is presenting has first right to demonstrate their knowledge, but if they need help then one of their classmates can chime in.  If nobody can answer the question we go to the book or literature for the answer.  For the time restraints of seminar sometimes we will have a few students look up the answer while we move on in the topic.  When all else fails, I will give then an answer and have them confirm or refute my answer with evidence from the literature.
+
+<img src="https://imgs.xkcd.com/comics/ten_thousand.png" alt="Saying what kind of idiot doesn't know about the yellowstone supervolcano is so much more boring than telling someone about the Yellowstone supervolcano for the first time."></img>
+> Saying what kind of idiot doesn't know about the Yellowstone supervolcano is so much more boring than telling someone about the Yellowstone supervolcano for the first time.</p>
+
+### Sometimes you are wrong!
+
+None of us are perfect in our understanding and sometimes this process uncovers some weaknesses in your own logic.  Don't be afraid to admit you are wrong when this happens.  This sets the expectation of infallibility and discourages open and honest dialog.  Sometimes you get a student that just wants to refute everything you say and has this desire to always be right.  Try not to take offense when this happens.  If you look hard enough in the literature, you can probably find something to refute almost everything you say.  Sometimes this ends up being a lecture about interpreting evidence and how 1 article does not make and evidence base.  However it goes, if the student had to read 15 articles on a topic just to find 1 that refuted what you said then that student has read 16 articles that they wouldn't have otherwise.
+
+Encourage students to fact check things you say.  You might be right, they might be right, but you'll both come out better off for it.
+
+
+# Step 4 – Simplify
+
+At this point, it is easy just to say that you are done, but all of this knowledge needs to be synthesized and summarized.  If this isn't done the student might come back to their notes on the topic some months later and study the original(incomplete) notes instead of simplifying the topic and distilling the information down to the essential components.  It is still not easier to understand than when they first wrote it.  If they truly understand the topic, they will be able to cut away all of the clutter and simplify the topic so that they can explain it to anyone.
+
+
