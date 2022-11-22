@@ -11,11 +11,11 @@ cta:
 widget_id: hero
 headless: true
 weight: 10
-title: CDR Justin Hefley
+title: LCDR Justin Hefley
 design:
   background:
     gradient_end: "#20245D"
-    gradient_start: "#520101"
+    gradient_start: "#20245D"
     text_color_light: true
 ---
 
