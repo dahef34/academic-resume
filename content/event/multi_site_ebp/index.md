@@ -2,27 +2,27 @@
 abstract: 
 all_day: false
 links:
-event: TriService Nursing Research Program Dissemination Course
-publishDate: 2021-04-08T00:00:00Z
-slides: example
+event: TriService Nursing Grand Rounds
+publishDate: 2022-11-22T00:00:00Z
+slides: 
 draft: false
 url_pdf: ""
-summary: A talk about enhancing operational readiness through evidence-based practice
-date_end: 2030-06-01T15:00:00Z
-event_url: 
+summary: A talk about multi-site collaboration for evidence-based practice projects
+date_end: 2023-08-17T12:00:00Z
+event_url:  "https://www.triservicenurse.org"
 authors: []
 url_video: ""
-date: 2030-06-01T13:00:00Z
+date: 2023-08-17T11:00:00Z
 featured: false
 url_slides: ""
 address:
   street: 
-  city: San Antoinio
-  region: TX
+  city: 
+  region: 
   postcode: 
-  country: United States
-title: Increasing Operational Readiness through Evidence-based Practice
-location: Menger Hotel
+  country: 
+title: Multi-site collaboration for evidence-based practice projects
+location: Virtual
 tags: []
 projects:
 image:
