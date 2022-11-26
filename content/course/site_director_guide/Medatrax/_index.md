@@ -5,6 +5,6 @@ summary: Managing Medatrax
 date: '2021-01-24'
 type: book
 tags:
-  - current
+  - chapter
 weight: 30
 ---

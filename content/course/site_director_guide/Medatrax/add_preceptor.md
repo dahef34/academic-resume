@@ -10,5 +10,5 @@ weight: 31
 
 This will be needed when a new site is added to make a generic user login as well as when a preceptor requests the ability to use the FWD evals.
 
-{{< embed-pdf url="/course/Add_Preceptor-to-Medatrax.pdf" >}}
+{{< embed-pdf url="/course/site_director_guide/Add_Preceptor-to-Medatrax.pdf" >}}
 

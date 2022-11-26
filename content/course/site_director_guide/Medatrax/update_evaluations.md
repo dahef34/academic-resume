@@ -10,5 +10,5 @@ Some information about medatrax
 
 ## Adding & Updating Evaluations
 
-{{< embed-pdf url="/course/Add-Update_Evaluations.pdf" >}}
+{{< embed-pdf url="/course/site_director_guide/Add-Update_Evaluations.pdf" >}}
 

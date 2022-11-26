@@ -3,8 +3,8 @@ title: What is fair?
 date: 2022-11-22
 math: true
 draft: false
-image:
-  placement: 2
+banner:
+  image: "featured.svg"
   caption: "Image credit: [](https://commons.wikimedia.org/wiki/)"
 ---
 

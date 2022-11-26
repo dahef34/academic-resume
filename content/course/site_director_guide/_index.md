@@ -24,5 +24,5 @@ weight: 10
 
 
 
-[Next]({{< ref "/course/canvas" >}})
+[Next]({{< ref "/course/site_director_guide/canvas" >}})
 
