@@ -7,12 +7,12 @@ publishDate: 2022-11-22T00:00:00Z
 slides: 
 draft: false
 url_pdf: ""
-summary: A talk about change theory and teambuilding skills.
-date_end: 2023-01-10T10:00:00Z
+summary: How to begin the EBP process and cultivate a culture of inquiry at your hospital.
+date_end: 2023-01-11T09:10:00Z
 event_url:  "https://www.triservicenurse.org"
 authors: []
 url_video: ""
-date: 2023-01-10T09:30:00Z
+date: 2023-01-11T08:10:00Z
 featured: false
 url_slides: ""
 address:
@@ -21,7 +21,7 @@ address:
   region: 
   postcode: 
   country: 
-title: Change theory and teambuilding skills.
+title: The EBP Process and cultivating a culture of inquiry
 location: Marston Pavilion Camp Lejeune
 tags: [ebp]
 projects:

@@ -7,12 +7,12 @@ publishDate: 2022-11-22T00:00:00Z
 slides: 
 draft: false
 url_pdf: ""
-summary: A talk about change theory and teambuilding skills.
-date_end: 2023-01-10T10:00:00Z
+summary: How to plan an evidence based practice change at your institution.
+date_end: 2023-01-11T14:00:00Z
 event_url:  "https://www.triservicenurse.org"
 authors: []
 url_video: ""
-date: 2023-01-10T09:30:00Z
+date: 2023-01-11T13:30:00Z
 featured: false
 url_slides: ""
 address:
@@ -21,7 +21,7 @@ address:
   region: 
   postcode: 
   country: 
-title: Change theory and teambuilding skills.
+title: Plan an evidence-based practice change
 location: Marston Pavilion Camp Lejeune
 tags: [ebp]
 projects:
