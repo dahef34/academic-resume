@@ -48,7 +48,7 @@ One lung ventilation is a technique used during surgery when operating in the th
 
 The double lumen tube comes in right and left variants due to the anatomical differences between the right and left mainstem bronchus.  In clinical practice, a left double lumen tube is preferred for both sides except in situations that would necessitate a right double lumen tube such as surgery on the left mainstem bronchus due to the increase in ease of placement of these tubes as well as a higher margin of error with tube placement location due to the longer left main stem bronchus.
 
-{{< figure src="https://en.wikipedia.org/wiki/Trachea#/media/File:Gray622.png" caption="Wikimedia Commons https://en.wikipedia.org/wiki/Trachea#/media/File:Gray622.png" alt="Henry Gray (1918) Anatomy of the Human Body" numbered="true" >}}
+{{< figure src="Gray622.png" caption="Wikimedia Commons https://en.wikipedia.org/wiki/Trachea#/media/File:Gray622.png" alt="Henry Gray (1918) Anatomy of the Human Body" numbered="true" >}}
 
 These tubes range in size from 26 - 41 Fr.  The most common tube sizes for adults range from 37 - 39, but size selection should be individualized per patient.
 
