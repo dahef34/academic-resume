@@ -23,7 +23,7 @@ A diagnosis of diabetes can be made with one of threee tests: a fasting plasma g
 
 
 |  Test  |  Criteria    |
-| ----------------------|
+| ------| ---------------|
 |  FPG  |  >= 126 mg/dL |
 |  OGTT |  >= 200 mg/dL |
 |  A1C  |  >= 6.5%      |
