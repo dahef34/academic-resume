@@ -14,26 +14,21 @@ Factors contributing to a decreased oxygen supply:
 
 ```mermaid
 graph TD
-    A[↓ O2 Supply] --> D[↓ Oxygen Extraction]
-    A --> B[↓ Arterial O2 content]
-    A --> C[↓ Coronary Blood Flow]
-
-   D --> E[Left Shift of Oxyhemoglobin disassociation curve]
-   D --> F[↓ Capillary density]
-
-   B --> G[Anemia]
-   B --> H[Hypovolemia]
-
-   C --> I[↑  Heart Rate]
-   C --> J[↓ Aortic Pressure]
-   C --> K[↑ End Diastolic pressure]
-   C --> L[Coronary Steal]
-   C --> M[↓ Vessel Lumen]
-
-   E --> N[Alkalosis]
-   E --> O[Hypothermia]
-   E --> P[Low levels of 2,3-DPG]
-
+    A["↓ O2 Supply"] --> D["↓ Oxygen Extraction"]
+    A --> B["↓ Arterial O2 content"]
+    A --> C["↓ Coronary Blood Flow"]
+    D --> E[Left Shift of Oxyhemoglobin disassociation curve]
+    D --> F["↓ Capillary density"]
+    B --> G[Anemia]
+    B --> H[Hypovolemia]
+    C --> I["↑  Heart Rate"]
+    C --> J["↓ Aortic Pressure"]
+    C --> K["↑ End Diastolic pressure"]
+    C --> L[Coronary Steal]
+    C --> M["↓ Vessel Lumen"]
+    E --> N[Alkalosis]
+    E --> O[Hypothermia]
+    E --> P[Low levels of 2,3-DPG]
 ```
 
 For patients with ischemic heart disease undergoing non-cardiac surgery, the Lee Revised Cardiac Index should be used to determine overall risk and help determine if further optimization is necessary.
