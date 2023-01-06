@@ -12,7 +12,7 @@ weight: 10
 
 ## Basic Sciences (25%)
 ### Anatomy, physiology and pathophysiology
-1. [Cardiovascular]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/" >}})
+1. Cardiovascular
     - [Ischemic heart disease]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/ischemic_heart_disease.md" >}})
     - [Valvular heart disease]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/valvular_heart_disease.md" >}})
     - [Congenital heart defects]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/congenital_heart_defects.md" >}})
@@ -21,14 +21,14 @@ weight: 10
     - [Infectious diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/infectious_disease.md" >}})
     - [Pericardial diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/pericardial_disease.md" >}})
     - [Cardiomyopathy and heart failure]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/cardiomyopathy.md" >}})
-2. [Respiratory]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Respiratory/" >}})
+2. Respiratory
     - [Obstructive diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Respiratory/obstructive_diseases.md" >}})
     - [Restrictive diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Respiratory/restrictive_diseases.md" >}})
     - [Infectious diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Respiratory/infectious_diseases.md" >}})
     - [Pulmonary vascular complications]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Respiratory/pulmonary_vascular_complications.md" >}}) 
     - [Altered airway anatomy]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Respiratory/pulmonary_vascular_complications.md" >}})
     - [Genetic respiratory disorders]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Respiratory/genetic_respiratory_disorders.md" >}})
-3. [Central nervous system]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/CNS" >}})
+3. Central nervous system
     - Neurodegenerative diseases
     - Myelin diseases
     - Cerebrovascular diseases
