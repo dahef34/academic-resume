@@ -40,7 +40,7 @@ content:
   directions: Second floor office w258
   office_hours:
     - 'Friday 10:00 to 13:00'
-  appointment_url: 'https://calendly.com'
+  appointment_url: 
   contact_links:
     - icon: twitter
       icon_pack: fab
