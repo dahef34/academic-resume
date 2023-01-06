@@ -18,17 +18,17 @@ weight: 20
 {{< figure src="coag.png" caption="Wikimedia Commons" alt="Anticoagulants" numbered="true" >}}
 
 
-***F***oolish   - I    --> Fibrinogen   
-***P***eople    - II   --> Prothrombin  
-***T***ry       - III  --> Thromboplastin  
-***C***limbing  - IV   --> Calcium  
-***L***ong      - V    --> Labile factor  
-***S***lopes    - VII  --> Stable factor  
-***A***fter     - VIII --> Anti-hemophiliac factor  
-***C***hristmas - IX   --> Christmas factor  
-***S***ome      - X    -->  Stuart-Prower factor  
-***H***ave      - XI   --> Hagemen factor  
-***F***allen    - XII  --> Fibrin stabilizing factor  
+***F*** oolish   - I    --> Fibrinogen   
+***P*** eople    - II   --> Prothrombin  
+***T*** ry       - III  --> Thromboplastin  
+***C*** limbing  - IV   --> Calcium  
+***L*** ong      - V    --> Labile factor  
+***S*** lopes    - VII  --> Stable factor  
+***A*** fter     - VIII --> Anti-hemophiliac factor  
+***C*** hristmas - IX   --> Christmas factor  
+***S*** ome      - X    -->  Stuart-Prower factor  
+***H*** ave      - XI   --> Hagemen factor  
+***F*** allen    - XII  --> Fibrin stabilizing factor  
 
 The clotting cascade is a series of steps that leads to the formation of a blood clot. It is a complex process that involves many different proteins and enzymes, and it occurs in several stages. Here are the steps of the clotting cascade in more detail, along with the clotting factors involved at each step:
 
