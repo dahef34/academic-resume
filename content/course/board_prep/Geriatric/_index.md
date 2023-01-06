@@ -11,6 +11,7 @@ weight: 20
 
 # Geriatrics
 
+{{< youtube E0OP6H95gj0 >}}
 
 A decrease in cardiac output can delay onset or extend effect of common medications.  A decrease in lean body can increase sensitivity to medications and predispose them to toxic effects.
 
