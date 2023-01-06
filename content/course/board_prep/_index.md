@@ -52,7 +52,7 @@ weight: 10
     - Pituitary disorders
     - Adrenal disorders
     - Pancreatic disorders
-    - Metabolic disorders
+    - [Metabolic disorders]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Endocrine/metabolic_disorders.md" >}})
     - Genetic endocrine disorders
 6. Hepatic
     - Infectious diseases
