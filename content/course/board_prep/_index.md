@@ -12,7 +12,7 @@ weight: 10
 
 ## Basic Sciences (25%)
 ### Anatomy, physiology and pathophysiology
-  1. Cardiovascular
+1. Cardiovascular
     - Ischemic heart disease
     - Valvular heart disease
     - Congenital heart defects
@@ -21,13 +21,13 @@ weight: 10
     - Infectious diseases
     - Pericardial diseases
     - Cardiomyopathy and heart failure
-  2. Respiratory
+2. Respiratory
     - Obstructivediseases
     - Restrictive diseases
     - Infectious diseases
     - Pulmonary vascular complications - Altered airway anatomy
     - Genetic respiratory disorders
-  3. Central nervous system
+3. Central nervous system
     - Neurodegenerative diseases
     - Myelin diseases
     - Cerebrovascular diseases
@@ -40,86 +40,86 @@ weight: 10
     - Genetic nervous system disorders
     - Intracranial hypertension
     - Thermoregulation
-  4. Musculoskeletal
+4. Musculoskeletal
     - Myopathies/metabolic complications - Neuromuscular diseases
     - Skeletal diseases
     - Musculoskeletal disorders
     - Genetic musculoskeletal disorders
-  5. Endocrine
+5. Endocrine
     - Thyroid and parathyroid disorders - Pituitary disorders
     - Adrenal disorders
     - Pancreatic disorders
     - Metabolic disorders
     - Genetic endocrine disorders
-  6. Hepatic
+6. Hepatic
     - Infectious diseases
     - Biliary tract and bilirubin disorders - Cirrhotic disorders
     - Hepatovascular complications
-  7. Renal
+7. Renal
     - Primary kidney diseases and disorders - Acute kidney injury
     - Chronic kidney injury
-  8. Hematologic - Anemias
-  - Hemoglobindisorders - Coagulationdisorders - Infectious diseases
-  9. Gastrointestinal
+8. Hematologic - Anemias
+    - Hemoglobindisorders - Coagulationdisorders - Infectious diseases
+9. Gastrointestinal
     - Esophageal disorders
     - Gastric disorders
     - Pancreatic disorders
     - Intestinal disorders
     - Tumors/secreting lesions - Malabsorption disorders
-  10. Immune
+10. Immune
     - Infectious disorders
     - Hyper- and hypo-immune disorders (allergic response) - Autoimmunediseases
-  11. Other conditions - Cancer
+11. Other conditions - Cancer
     - Glaucoma
     - Burns
     - Trauma
     - Substance abuse (alcohol, tobacco, other) 
 ### Pharmacology
-  1. General principles
+1. General principles
     - Pharmacodynamics - Pharmacokinetics - Drug interactions
-  2. Inhalationanesthetics
-  3. Intravenous agents
+2. Inhalationanesthetics
+3. Intravenous agents
     - Barbiturates
     - Sedative/hypnotics
     - Opioid agonists
     - Opioid agonist-antagonists - Opioid antagonists
     - Benzodiazepines
     - Benzodiazepine antagonists
-  4. Local anesthetics
-  5. Muscle paralytics
-  6. Anticholinesterase agents
-  7. Selective relaxant binding agents
-  8. Neuraxial analgesics
-  9. Anticholinergics/cholinergic agonists
-  10. Nonsteroidal antiinflammatory drugs
-  11. Miscellaneous analgesics
-  12. Sympathomimetics
-  13. Inotropes
-  14. PDE inhibitors
-  15. Digitalis and related drugs
-  16. Alpha- and beta-receptor antagonists 17. Antihypertensives
+4. Local anesthetics
+5. Muscle paralytics
+6. Anticholinesterase agents
+7. Selective relaxant binding agents
+8. Neuraxial analgesics
+9. Anticholinergics/cholinergic agonists
+10. Nonsteroidal antiinflammatory drugs
+11. Miscellaneous analgesics
+12. Sympathomimetics
+13. Inotropes
+14. PDE inhibitors
+15. Digitalis and related drugs
+16. Alpha- and beta-receptor antagonists 17. Antihypertensives
     - Sympatholytics
     - Centrally acting alpha2-adrenergic agonists - ACE inhibitors
     - Angiotensin II receptor inhibitors
     - Nitrovasodilators
     - Nitric oxide
-  18. Antidysrhythmics
-  19. Calcium channel blockers
-  20. Bronchodilators 
-  21. Psychopharmacologic therapy
+18. Antidysrhythmics
+19. Calcium channel blockers
+20. Bronchodilators 
+21. Psychopharmacologic therapy
     - Selective serotonin reuptake inhibitors 
     - Tricyclic antidepressants
     - MAO inhibitors
     - Lithium
-  22. Prostaglandins
-  23. Histamine receptor antagonists
-  24. Serotoninantagonists
-  25. Insulin
-  26. Oral hypoglycemic
-  27. Diuretics
-  28. Antacids
-  29. Gastrointestinalprokineticmedications(metoclopramide) 
-  30. Anticoagulants
+22. Prostaglandins
+23. Histamine receptor antagonists
+24. Serotoninantagonists
+25. Insulin
+26. Oral hypoglycemic
+27. Diuretics
+28. Antacids
+29. Gastrointestinalprokineticmedications(metoclopramide) 
+30. Anticoagulants
     - Heparin and low-molecular-weight heparins 
     - Heparin reversal—protamine
     - Antiplatelet medications
@@ -127,29 +127,29 @@ weight: 10
     - Oral anticoagulant reversal 
     - Thrombolytics
     - Thrombin inhibitors
-  31. Antimicrobials
-  32. Chemotherapeutics
-  33. Antiepilepticdrugs
-  34. Antiparkinsonian drugs
-  35. Lipid-loweringagents
-  36. Herbal remedies and dietary supplements 
-  37. Minerals and electrolytes
-  38. Dantrolene
-  39. Corticosteroids
-  40. Tocolytics
-  41. Uterotonics
-  42. Antifibrinolytics
-  43. Intravenous dyes
+31. Antimicrobials
+32. Chemotherapeutics
+33. Antiepilepticdrugs
+34. Antiparkinsonian drugs
+35. Lipid-loweringagents
+36. Herbal remedies and dietary supplements 
+37. Minerals and electrolytes
+38. Dantrolene
+39. Corticosteroids
+40. Tocolytics
+41. Uterotonics
+42. Antifibrinolytics
+43. Intravenous dyes
 ### Applied chemistry, biochemistry, physics 
-  1. Chemistry
+1. Chemistry
     - Aqueous solutions and concentrations
     - Acids, bases, and salts
     - Chemical reactions: oxidation, reduction, hydrolysis, and conjugation
-  2. Biochemistry
+2. Biochemistry
     - Metabolism
     - Cellular mechanisms for action 
     - Drug receptor interaction
-  3. Physics
+3. Physics
     - Units of measurement
     - Gases and gas laws
     - Solubility, diffusion and osmosis
@@ -161,51 +161,51 @@ weight: 10
 ## I- Equipment, Instrumentation and Technology (15%)
 
 ### Anesthetic delivery systems
-  1. High/low pressure gas sources 
-  2. Regulators/manifolds
-  3. Flowmeters, valves, floats
-  4. Vaporizers
-  5. Proportioningsystems
-  6. Pressure failure safety devices 
-  7. Fail-safe devices
-  8. Ventilator
-  9. Carbon dioxide absorbent
-  10. Anesthetic circuits
+1. High/low pressure gas sources 
+2. Regulators/manifolds
+3. Flowmeters, valves, floats
+4. Vaporizers
+5. Proportioningsystems
+6. Pressure failure safety devices 
+7. Fail-safe devices
+8. Ventilator
+9. Carbon dioxide absorbent
+10. Anesthetic circuits
     - Rebreathing, circle system 
     - Nonrebreathing
     - Modified nonrebreathing
-  11. Pneumatic and electronic alarm devices
+11. Pneumatic and electronic alarm devices
 ### Airway equipment
-  1. Face masks
-  2. Laryngoscope
+1. Face masks
+2. Laryngoscope
     - Rigid
     - Videoscope
     - Optically enhanced scopes
-  3. Flexible fiberoptic bronchoscope 
-  4. Endotracheal tube
-  5. Endobronchial tube
+3. Flexible fiberoptic bronchoscope 
+4. Endotracheal tube
+5. Endobronchial tube
     - Including double lumen tubes 
-  6. Airways
+6. Airways
     - Oral
     - Nasal
-  7. Tracheostomy tubes
-  8. Supraglottic airways (LMA) 
-  9. Intubating supraglottic airways
-  10. Jet ventilation
-  11. Intubating stylets
-  12. Lighted stylet
-  13. Cricothyrotomy (needle and surgical) 
-  14. Other
+7. Tracheostomy tubes
+8. Supraglottic airways (LMA) 
+9. Intubating supraglottic airways
+10. Jet ventilation
+11. Intubating stylets
+12. Lighted stylet
+13. Cricothyrotomy (needle and surgical) 
+14. Other
     - Eschmann catheter ("bougie") 
     - Combitube
     - Exchange catheter
 ### Monitoring devices
-  1. Central nervous system
+1. Central nervous system
     - Evoked potential
     - Intracranialpressure
     - Modified EEG monitor (BIS, PSArray)
     - Cerebral oximetry
-  2. Cardiovascular
+2. Cardiovascular
     - Electrocardiogram
     - Arterial pressure monitoring
     - Noninvasive blood pressure monitoring
@@ -213,84 +213,84 @@ weight: 10
     - Pulmonary artery pressure monitoring/ SvO2 
     - Cardiac output
     - Precordial/esophageal stethoscope/Doppler
-  3. Pulmonary/airway monitoring 
+3. Pulmonary/airway monitoring 
     - Capnography
     - Airway gas analysis
     - Pulse oximetry
     - Airway pressure
     - Blood gas analysis
-  4. Peripheral nerve stimulator
-  5. Urinary output monitoring
-  6. Temperature monitoring
-  7. Maternal/fetal monitoring issues
-  8. Others
+4. Peripheral nerve stimulator
+5. Urinary output monitoring
+6. Temperature monitoring
+7. Maternal/fetal monitoring issues
+8. Others
     - Fluid/blood warmers
     - Forced air warming blanket
     - Heat and moisture exchanger (HME) 
     - Blood salvage (cell saver)
 ### Imaging
-  1. Ultrasound 
-  2. Fluoroscopy
-  3. Radiography
+1. Ultrasound 
+2. Fluoroscopy
+3. Radiography
 
 ## General Principles of Anesthesia (30%)
 
 ### Ethical considerations 
 ### Legal issues
 ### Safety and wellness
-  1. Substance abuse (impairment, disorder, and other considerations)
-  2. Issues surrounding patient safety
+1. Substance abuse (impairment, disorder, and other considerations)
+2. Issues surrounding patient safety
 ### Preoperativeassessmentandpreparationofpatient 
 ### Fluid volume assessment and management
-  1. Fluid/blood component therapy replacement
-  2. Bloodless medicine (including cell saver and hemodilution techniques) 
+1. Fluid/blood component therapy replacement
+2. Bloodless medicine (including cell saver and hemodilution techniques) 
 ### Positioning
-  1. Techniques
-  2. Physiologicalterations 3. Complications
+1. Techniques
+2. Physiologicalterations 3. Complications
 ### Utilizationandinterpretationofdata 
-  1. Lab tests
-  2. Diagnostic exams
-  3. Intraoperative monitoring data 
+1. Lab tests
+2. Diagnostic exams
+3. Intraoperative monitoring data 
 ### Airwaymanagement
-  1. Assessment
-  2. Techniques, procedures, and devices 
-  3. Complications
-  4. Difficult airway management
-  5. Retrogradeintubation
+1. Assessment
+2. Techniques, procedures, and devices 
+3. Complications
+4. Difficult airway management
+5. Retrogradeintubation
 ### Local/regional anesthetics (technique, physiologic alterations, complications) 
-  1. Anatomy
-  2. Infiltration
-  3. Topical
-  4. Neuraxial blocks
-  5. Peripheral blocks
-  6. Other blocks (airway, retrobulbar)
-  7. Ultrasound and/or nerve stimulator guided concepts and techniques
+1. Anatomy
+2. Infiltration
+3. Topical
+4. Neuraxial blocks
+5. Peripheral blocks
+6. Other blocks (airway, retrobulbar)
+7. Ultrasound and/or nerve stimulator guided concepts and techniques
 ### Light, moderate, and deep sedation (monitored anesthesia care) 
 ### Pain management
-  1. Acute
-  2. Chronic (pathophysiology, techniques, management of patients)
+1. Acute
+2. Chronic (pathophysiology, techniques, management of patients)
     - Pathophysiology
     - Techniques
     - Management of patients
 ### Pain theory (anatomy, physiology, pathology, and psychodynamics) 
 ### Othertechniques
-  1. Hypotensive
-  2. Enhanced recovery after surgery (ERAS) 
+1. Hypotensive
+2. Enhanced recovery after surgery (ERAS) 
 ### Postanesthesiacare/respiratorytherapy
 
 ## Anesthesia for Surgical Procedures and Special Populations (30%)
 ### Surgical and diagnostic anesthesia, including management of complications
-  1. Intraabdominal-laparoscopic versus open 
+1. Intraabdominal-laparoscopic versus open 
     - Hepatobiliary system
     - Gastrointestinal tract procedures
     - Endocrine organ procedures
     - Renal/genitourinary
     - Gynecologic procedures
     - Peritoneal procedures (including hernia repair)
-  2. Extrathoracic 
+2. Extrathoracic 
     - Breast
     - Plastics and/or reconstructive
-  3. Head
+3. Head
     - Extracranial
       1. Otolaryngological
       2. Ophthalmologic
@@ -304,20 +304,20 @@ weight: 10
       3. Vascular
       4. Transsphenoidal hypophysectomy
       5. Stereotactic procedures
-  4. Intrathoracic (including open and thoracoscopic approach) 
+4. Intrathoracic (including open and thoracoscopic approach) 
     - Diaphragm
     - Endoscopic procedures (bronchoscopy, mediastinoscopy) 
     - Esophagus
     - Heart
     - Lung
     - Mediastinal
-  5. Neck
+5. Neck
     - Larynx/trachea (including tracheostomy)
     - Lymph node biopsies
     - Parathyroid/thyroid
     - Neck tumors
     - Radical neck dissection
-  6. Neuroskeletal
+6. Neuroskeletal
     - Cervical spine (anterior and posterior approach) 
     - Laminectomy/discectomy fusions at all levels
     - Pain management procedures
@@ -325,17 +325,17 @@ weight: 10
     - Surgical sympathectomy
     - Vertebroplasty
     - Scoliosis repair
-  7. Orthopedic
+7. Orthopedic
     - Arthroscopic procedures
     - Closed reduction
     - Fractures
     - Total joint replacements/arthroplasty 
     - Procedures of the hand and foot
-  8. Perineal and pelvic procedures 
+8. Perineal and pelvic procedures 
     - Gynecologic
     - Genitourinary
     - Anal/rectal
-  9. Vascular (open versus endovascular) 
+9. Vascular (open versus endovascular) 
     - Carotid
     - Thoracic
     - Abdominal (including renal) 
@@ -345,7 +345,7 @@ weight: 10
       3. Vein stripping
     - Thromboembolic prevention
     - Surgical management of portal hypertension
-  10. Diagnostic/therapeutic
+10. Diagnostic/therapeutic
     - Venous/arterial catheterization 
     - Interventional cardiology
       1. Cardioversion
@@ -357,7 +357,7 @@ weight: 10
     - Interventional radiology
     - Radiation therapy
     - Endoscopy
-  11. Other surgical procedures 
+11. Other surgical procedures 
     - Trauma
     - Burns
     - Resuscitation
@@ -367,7 +367,7 @@ weight: 10
     - Laser procedures
 
 ### Anesthesia for special populations 
-  1. Pediatrics
+1. Pediatrics
     - Anatomy, physiology, and pathophysiology 
       1. Normal
       2. Prematurity
@@ -375,19 +375,19 @@ weight: 10
     - Pharmacology
     - Anesthesia techniques/procedures
     - Management of complications
-  2. Obstetrics
+2. Obstetrics
     - Anatomy, physiology, and pathophysiology 
     - Pharmacology
     - Anesthesia techniques/procedures
     - High-risk parturients
     - Nonobstetric surgery in the parturient
     - Management of complications
-  3. Geriatrics
+3. Geriatrics
     - Anatomy, physiology, and pathophysiology 
     - Pharmacology
     - Anesthesia techniques/procedures
     - Management of complications
-  4. Obesity
+4. Obesity
     - Anatomy, physiology, and pathophysiology
     - Pharmacology
     - Anesthesia techniques/procedures (including bariatric) 
