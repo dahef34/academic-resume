@@ -29,7 +29,7 @@ graph TD
 
 Decreases in baroreceptor function predispose geriatric patients to orthostatic hypotension.  Consider allowing clear liquids up until two hours before surgery.
 
-{{% callout warning %}}
+{{% callout info %}}
 Allow for adequate hydration and titrate medications carefully to avoid hypo/hypertension.
 {{% /callout %}}
 
@@ -38,7 +38,7 @@ Allow for adequate hydration and titrate medications carefully to avoid hypo/hyp
 
 Functional Residual Capacity (FRC) increases 5 - 10% per decade of life which decreases vital capacity.  Closing capacity increases more relative to FRC which may predispose these patients to atelectasis, hypoxemia, and increased V/Q mismatch.  Older adults have a reduced respiratory response to hypoxia and hypercapnia and have an increased risk of sleep apnea so pre-operative screening for OSA using the STOP-Bang or similar questionnaire is prudent.
 
-{{% callout warning %}}
+{{% callout info %}}
 Ensure neuromuscular blockade is fully reversed to reduce pulmonary complications.
 Use OSA screening tool.
 {{% /callout %}}
@@ -59,7 +59,7 @@ PONV decreases with advanced age.  Multi-modal therapy for PONV prevention may b
 
 Medication metabolism that is dependent on hepatic extraction (morphine, ketamine, fentanil, sufentanil, lidocaine, flumazenil, etc.) can be delayed considerably
 
-{{% callout warning %}}
+{{% callout info %}}
 Titrate drugs carefully and avoid drugs on Beers criteria list when possible.
 {{% /callout %}}
 
@@ -67,7 +67,7 @@ Titrate drugs carefully and avoid drugs on Beers criteria list when possible.
 
 Increases in osteoarthritis and loss of lean muscle mass predispose patients to to pressure ulcers and intraoperative nerve injuries.
 
-{{% callout warning %}}
+{{% callout info %}}
 Pad joints, bony prominences,  and superficial nerves (ulnar, commmon peroneal, etc.)
 {{% /callout %}}
 
