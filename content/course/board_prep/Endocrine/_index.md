@@ -54,6 +54,9 @@ Current oral diabetic medication recommendations for elective surgery are as fol
 |  DPP-4 Inhibitors    | Take                   | Take                   | Take               |
 |  SGLT-2 Inhibitors   | Hold                   | Hold                   | Hold               |
 
+{{% callout info %}}
+ \* Hold if procedure requires intravenous contrast dye
+{{% /callout %}}
 
 ### Insulin Recommendations
 
@@ -92,9 +95,7 @@ Current oral diabetic medication recommendations for elective surgery are as fol
 
 #### Insulin Pumps
 
-Unless the surgical site or procedure procludes the use of an insulin pump, the pump should be continued on the day of surgery.  
-Turn the pump off if the BG is less than 110 mg/dL and provide additional bolus of insulin if BG > 180.  If unable to use the
-insulin pump, an insulin infusion can be substituted at the same rate as the basal rate on the pump.
+Unless the surgical site or procedure procludes the use of an insulin pump, the pump should be continued on the day of surgery.  Turn the pump off if the BG is less than 110 mg/dL and provide additional bolus of insulin if BG > 180.  If unable to use the insulin pump, an insulin infusion can be substituted at the same rate as the basal rate on the pump.
 
 ## References
 
