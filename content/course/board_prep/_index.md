@@ -12,22 +12,23 @@ weight: 10
 
 ## Basic Sciences (25%)
 ### Anatomy, physiology and pathophysiology
-1. Cardiovascular
-    - Ischemic heart disease
-    - Valvular heart disease
-    - Congenital heart defects
-    - [Cardiac conduction and rhythm abnormalities]({{< ref "/course/board_prep/Cardiac/conduction.md" >}})
-    - Cardiovascular and peripheral vascular complications 
-    - Infectious diseases
-    - Pericardial diseases
-    - Cardiomyopathy and heart failure
-2. Respiratory
-    - Obstructivediseases
-    - Restrictive diseases
-    - Infectious diseases
-    - Pulmonary vascular complications - Altered airway anatomy
-    - Genetic respiratory disorders
-3. Central nervous system
+1. [Cardiovascular]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/" >}})
+    - [Ischemic heart disease]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/ischemic_heart_disease.md" >}})
+    - [Valvular heart disease]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/valvular_heart_disease.md" >}})
+    - [Congenital heart defects]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/congenital_heart_defects.md" >}})
+    - [Cardiac conduction and rhythm abnormalities]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/conduction.md" >}})
+    - [Cardiovascular and peripheral vascular complications]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/cardiovascular_complications.md" >}}) 
+    - [Infectious diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/infectious_disease.md" >}})
+    - [Pericardial diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/pericardial_disease.md" >}})
+    - [Cardiomyopathy and heart failure]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/cardiomyopathy.md" >}})
+2. [Respiratory]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Respiratory/" >}})
+    - [Obstructive diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Respiratory/obstructive_diseases.md" >}})
+    - [Restrictive diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Respiratory/restrictive_diseases.md" >}})
+    - [Infectious diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Respiratory/infectious_diseases.md" >}})
+    - [Pulmonary vascular complications]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Respiratory/pulmonary_vascular_complications.md" >}}) 
+    - [Altered airway anatomy]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Respiratory/pulmonary_vascular_complications.md" >}})
+    - [Genetic respiratory disorders]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Respiratory/genetic_respiratory_disorders.md" >}})
+3. [Central nervous system]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/CNS" >}})
     - Neurodegenerative diseases
     - Myelin diseases
     - Cerebrovascular diseases
@@ -41,48 +42,62 @@ weight: 10
     - Intracranial hypertension
     - Thermoregulation
 4. Musculoskeletal
-    - Myopathies/metabolic complications - Neuromuscular diseases
+    - Myopathies/metabolic complications 
+    - Neuromuscular diseases
     - Skeletal diseases
     - Musculoskeletal disorders
     - Genetic musculoskeletal disorders
 5. Endocrine
-    - Thyroid and parathyroid disorders - Pituitary disorders
+    - Thyroid and parathyroid disorders 
+    - Pituitary disorders
     - Adrenal disorders
     - Pancreatic disorders
     - Metabolic disorders
     - Genetic endocrine disorders
 6. Hepatic
     - Infectious diseases
-    - Biliary tract and bilirubin disorders - Cirrhotic disorders
+    - Biliary tract and bilirubin disorders 
+    - Cirrhotic disorders
     - Hepatovascular complications
 7. Renal
-    - Primary kidney diseases and disorders - Acute kidney injury
+    - Primary kidney diseases and disorders 
+    - Acute kidney injury
     - Chronic kidney injury
-8. Hematologic - Anemias
-    - Hemoglobindisorders - Coagulationdisorders - Infectious diseases
+8. Hematologic 
+    - Anemias
+    - Hemoglobindisorders 
+    - Coagulationdisorders 
+    - Infectious diseases
 9. Gastrointestinal
     - Esophageal disorders
     - Gastric disorders
     - Pancreatic disorders
     - Intestinal disorders
-    - Tumors/secreting lesions - Malabsorption disorders
+    - Tumors/secreting lesions 
+    - Malabsorption disorders
 10. Immune
     - Infectious disorders
-    - Hyper- and hypo-immune disorders (allergic response) - Autoimmunediseases
-11. Other conditions - Cancer
+    - Hyper- and hypo-immune disorders (allergic response) 
+    - Autoimmunediseases
+11. Other conditions 
+    - Cancer
     - Glaucoma
     - Burns
     - Trauma
     - Substance abuse (alcohol, tobacco, other) 
+
 ### Pharmacology
 1. General principles
-    - Pharmacodynamics - Pharmacokinetics - Drug interactions
+    - Pharmacodynamics 
+    - Pharmacokinetics 
+    - Drug interactions
 2. Inhalationanesthetics
 3. Intravenous agents
     - Barbiturates
     - Sedative/hypnotics
     - Opioid agonists
-    - Opioid agonist-antagonists - Opioid antagonists
+    - Opioid agonist-antagonists 
+    - Opioid antagonists
     - Benzodiazepines
     - Benzodiazepine antagonists
 4. Local anesthetics
@@ -97,9 +112,11 @@ weight: 10
 13. Inotropes
 14. PDE inhibitors
 15. Digitalis and related drugs
-16. Alpha- and beta-receptor antagonists 17. Antihypertensives
+16. Alpha- and beta-receptor antagonists 
+17. Antihypertensives
     - Sympatholytics
-    - Centrally acting alpha2-adrenergic agonists - ACE inhibitors
+    - Centrally acting alpha2-adrenergic agonists 
+    - ACE inhibitors
     - Angiotensin II receptor inhibitors
     - Nitrovasodilators
     - Nitric oxide
@@ -140,6 +157,7 @@ weight: 10
 41. Uterotonics
 42. Antifibrinolytics
 43. Intravenous dyes
+
 ### Applied chemistry, biochemistry, physics 
 1. Chemistry
     - Aqueous solutions and concentrations
@@ -158,14 +176,14 @@ weight: 10
     - Vaporization and humidification
     - Measurement of oxygen, carbon dioxide, and hydrogen ion
 
-## I- Equipment, Instrumentation and Technology (15%)
+## Equipment, Instrumentation and Technology (15%)
 
 ### Anesthetic delivery systems
 1. High/low pressure gas sources 
 2. Regulators/manifolds
 3. Flowmeters, valves, floats
 4. Vaporizers
-5. Proportioningsystems
+5. Proportioning systems
 6. Pressure failure safety devices 
 7. Fail-safe devices
 8. Ventilator
@@ -240,18 +258,18 @@ weight: 10
 ### Safety and wellness
 1. Substance abuse (impairment, disorder, and other considerations)
 2. Issues surrounding patient safety
-### Preoperativeassessmentandpreparationofpatient 
+### Preoperative assessment and preparation of patient 
 ### Fluid volume assessment and management
 1. Fluid/blood component therapy replacement
 2. Bloodless medicine (including cell saver and hemodilution techniques) 
 ### Positioning
 1. Techniques
 2. Physiologicalterations 3. Complications
-### Utilizationandinterpretationofdata 
+### Utilization and interpretation of data 
 1. Lab tests
 2. Diagnostic exams
 3. Intraoperative monitoring data 
-### Airwaymanagement
+### Airway management
 1. Assessment
 2. Techniques, procedures, and devices 
 3. Complications
@@ -273,12 +291,13 @@ weight: 10
     - Techniques
     - Management of patients
 ### Pain theory (anatomy, physiology, pathology, and psychodynamics) 
-### Othertechniques
+### Other techniques
 1. Hypotensive
 2. Enhanced recovery after surgery (ERAS) 
-### Postanesthesiacare/respiratorytherapy
+### Post-anesthesia care / respiratory therapy
 
 ## Anesthesia for Surgical Procedures and Special Populations (30%)
+
 ### Surgical and diagnostic anesthesia, including management of complications
 1. Intraabdominal-laparoscopic versus open 
     - Hepatobiliary system
