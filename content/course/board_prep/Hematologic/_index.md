@@ -17,8 +17,8 @@ weight: 20
 
 {{< figure src="coag.png" caption="Wikimedia Commons" alt="Anticoagulants" numbered="true" >}}
 
+|***F*** |oolish   |- I    |--> Fibrinogen | 
 |--------|---------|-------|----------------|
-|***F*** |oolish   |- I    |--> Fibrinogen |   
 |***P*** |eople    |- II   |--> Prothrombin  |
 |***T*** |ry       |- III  |--> Thromboplastin | 
 |***C*** |limbing  |- IV   |--> Calcium  |
