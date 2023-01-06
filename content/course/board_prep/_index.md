@@ -16,7 +16,7 @@ weight: 10
     - Ischemic heart disease
     - Valvular heart disease
     - Congenital heart defects
-    - [Cardiac conduction and rhythm abnormalities]({{< relref "/Cardiac/conduction.md" >}})
+    - [Cardiac conduction and rhythm abnormalities]({{< ref "/course/board_prep/Cardiac/conduction.md" >}})
     - Cardiovascular and peripheral vascular complications 
     - Infectious diseases
     - Pericardial diseases
