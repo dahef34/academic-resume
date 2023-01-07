@@ -7,6 +7,7 @@ type: book
 tags:
   - prep
 weight: 10
+columns: 1
 ---
 
 
@@ -26,7 +27,7 @@ weight: 10
     - [Restrictive diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Respiratory/restrictive_diseases.md" >}})
     - [Infectious diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Respiratory/infectious_diseases.md" >}})
     - [Pulmonary vascular complications]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Respiratory/pulmonary_vascular_complications.md" >}}) 
-    - [Altered airway anatomy]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Respiratory/pulmonary_vascular_complications.md" >}})
+    - [Altered airway anatomy]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Respiratory/altered_airway_anatomy.md" >}})
     - [Genetic respiratory disorders]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Respiratory/genetic_respiratory_disorders.md" >}})
 3. Central nervous system
     - Neurodegenerative diseases
