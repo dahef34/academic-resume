@@ -1,13 +1,11 @@
 ---
-title: 📊 Endocrine System
-linkTitle: Endocrine System
-summary: Review of the endocrine system
+title: 📊 Metabolic disorders
 date: '2022-12-02'
 type: book
-tags:
-  - chapter
-weight: 20
+weight: 506
+draft: false
 ---
+
 
 # Endocrine System
 
