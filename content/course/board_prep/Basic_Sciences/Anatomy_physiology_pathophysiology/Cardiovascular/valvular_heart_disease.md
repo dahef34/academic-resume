@@ -30,18 +30,17 @@ AS is the most common cardiac valve lesion in the United States and as the popul
  Aortic stenosis causes a ***PRESSURE*** overload which leads to ***CONCENTRIC*** hypertrophy. 
 {{% /callout %}}
 
+{{< table "table table-striped table-bordered" >}}
 | Goals	| Avoid	 | 
 | ----------------  | :------ | 
-|Sinus rhythm	| Avoid atrial fibrillation or other SVT                                   |   
-|               | Avoid loss of artial kick (e.g. junctional rhythm, V-pacing) | 
-|Normal HR (60 to 90 bpm)	| Avoid tachycardia                                 |   
-|               | Avoid profound bradycardia | 
-|               | Avoid junctional rhythm | 
-|Maintain afterload	| Avoid hypotension/hypertension                              |   
-|               | Avoid sympathectomy | 
+|Sinus rhythm	| Avoid atrial fibrillation or other SVT  <br> Avoid loss of artial kick (e.g. junctional rhythm, V-pacing)                                |   
+|Normal HR (60 to 90 bpm)	| Avoid tachycardia <br>  Avoid profound bradycardia <br> Avoid junctional rhythm                              |   
+|Maintain afterload	| Avoid hypotension/hypertension <br>   Avoid sympathectomy                           |   
 |Maintain preload	| Avoid hypovolemia            |
 |Maintain volume status	| Replete hemorrhage                              |   
 |Maintain contractility	| Avoid myocardial depressants                              |   
+
+{{< /table >}}
 
 {{< youtube bqY6vj7X-eo  >}}
 

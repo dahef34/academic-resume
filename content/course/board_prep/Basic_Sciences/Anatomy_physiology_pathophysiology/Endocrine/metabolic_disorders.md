@@ -19,31 +19,31 @@ The exact process by which the immune system attacks and destroys the beta cells
 
 A diagnosis of diabetes can be made with one of threee tests: a fasting plasma glucose (FPG), an Oral Glucose Tolerance Test (OGTT), random plasma glucose, or a Hemoglobin A1C test.  The diagnostic criteria for each test is listed below.  Random plasma glucose guidelines follow those for OGTT.
 
-
+{{< table "table table-striped table-bordered" >}}
 |  Test  |  Criteria    |
 | ------| ---------------|
 |  FPG  |  >= 126 mg/dL |
 |  OGTT |  >= 200 mg/dL |
 |  A1C  |  >= 6.5%      |
-
+{{< /table >}}
 Only plasma glucose testing should be utilized in diseases that have an abnormal interaction between A1C and glycemia, such as hemaglobinopathies including sickle cell disease, pregnancy, G6PD, dialysis, or recent transfusion.
 
 {{< figure src="diabetes_risk.png" caption="ADA https://diabetes.org/risktest" alt="Diabetes risk test from ADA" numbered="true" >}}
 
 
-### Perioperative treatment goals
+### Perioperative treatment goals 
 
 Treatment goals vary depending on the organization.  Two of the most pertinent to anesthesia are guidelines from the Society for Ambulatory Anesthesia (SAMBA) and the Society of Thoracic Surgeons (STS).
-
+{{< table "table table-striped table-bordered" >}}
 |  Organization  |  Goal    |
 | ------| ---------------|
 |  SAMBA  |  < 180 mg/dL |
 |  STS |  < 180 mg/dL (intraoperative) <br> <= 110 in fasting state |
-
+{{< /table >}}
 ### Oral Medication Recommendations
 
 Current oral diabetic medication recommendations for elective surgery are as follows:
-
+{{< table "table table-striped table-bordered" >}}
 |  Medication          |  Day Before Surgery    |  Ambulatory Surgery    |  Extensive Surgery |
 | -----------          | :---------------:      | :-----------------:    |    :------------:  |
 |  Secretagogues       |   Take                 | Hold                   | Hold               |
@@ -51,7 +51,7 @@ Current oral diabetic medication recommendations for elective surgery are as fol
 |  Thiazolidinediones  | Take                   | Take                   | Hold               |
 |  DPP-4 Inhibitors    | Take                   | Take                   | Take               |
 |  SGLT-2 Inhibitors   | Hold                   | Hold                   | Hold               |
-
+{{< /table >}}
 {{% callout info %}}
  \* Hold if procedure requires intravenous contrast dye
 {{% /callout %}}
@@ -60,25 +60,28 @@ Current oral diabetic medication recommendations for elective surgery are as fol
 
 #### Day Before Surgery
 
+{{< table "table table-striped table-bordered" >}}
 |  Medication                         |  Bowel Prep for Surgery          |  Normal Diet Before Surgery      |
 | -----------                         | :---------------:                | :-----------------:              | 
 |  Glargine, Detemir                  | AM - Usual, PM - 80% dose        | AM - Usual, PM - 80% dose        | 
 |  NPH, 70/30                         | AM - 80% dose, PM - 80% dose     | AM - 80% dose, PM - 80% dose     | 
 |  Lispro, Aspart, Glulisine, Regular | AM - Usual Dose, PM - Ususl Dose | AM - Usual Dose, PM - Ususl Dose | 
 |  Noninsulin Injectable              | Hold when starting prep          |  Usual Dose                      | 
+{{< /table >}}
 
 #### Day of Surgery
 
+{{< table "table table-striped table-bordered" >}}
 |  Medication                         |  Bowel Prep for Surgery                       | 
 | -----------                         | :---------------:                             |
 |  Glargine, Detemir                  | 80% dose                                      | 
 |  NPH, 70/30                         | 50 % dose if BG > 120mg/dL otherwise hold     | 
 |  Lispro, Aspart, Glulisine, Regular | Hold                                          | 
 |  Noninsulin Injectable              | Hold                                          | 
-
+{{< /table >}}
 
 #### Subcutaneous Insulin Dose Day of Surgery
-
+{{< table "table table-striped table-bordered" >}}
 |  Blood Glucose |  Insulin Sensitive |  Normal |  Insulin Resistant | 
 | -----------    | :---------------:  | :----:  | :--------:         |
 |  141 - 180     | 0                  |    2    |     3              |
@@ -88,8 +91,8 @@ Current oral diabetic medication recommendations for elective surgery are as fol
 |  301 - 350     | 5                  |    8    |     10             |
 |  351 - 400     | 6                  |    10   |     12             |
 |  > 400         | 8                  |    12   |     14             |
-
-"An IV insulin infusion is recommended in patients undergoing procedures with anticipated hemodynamic changes, significant fluid shifts, expected changes in temperature (passive hypothermia or active cooling, hyperthermic intraperitoneal chemotherapy), use of inotropes, or lengthy operative times (greater than 4 h)."1
+{{< /table >}}
+"An IV insulin infusion is recommended in patients undergoing procedures with anticipated hemodynamic changes, significant fluid shifts, expected changes in temperature (passive hypothermia or active cooling, hyperthermic intraperitoneal chemotherapy), use of inotropes, or lengthy operative times (greater than 4 h)."[^1]
 
 #### Insulin Pumps
 
@@ -97,4 +100,4 @@ Unless the surgical site or procedure procludes the use of an insulin pump, the 
 
 ## References
 
-1.  Elizabeth W. Duggan, Karen Carlson, Guillermo E. Umpierrez; Perioperative Hyperglycemia Management: An Update. Anesthesiology 2017; 126:547–560 doi: https://doi.org/10.1097/ALN.0000000000001515
+[^1]: Elizabeth W. Duggan, Karen Carlson, Guillermo E. Umpierrez; Perioperative Hyperglycemia Management: An Update. Anesthesiology 2017; 126:547–560 doi: https://doi.org/10.1097/ALN.0000000000001515

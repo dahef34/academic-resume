@@ -11,7 +11,7 @@ columns: 1
 ---
 
 
-## Basic Sciences (25%)
+# ***Basic Sciences (25%)***
 ### Anatomy, physiology and pathophysiology
 1. Cardiovascular
     - [Ischemic heart disease]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/ischemic_heart_disease.md" >}})  
@@ -177,7 +177,7 @@ columns: 1
     - Vaporization and humidification
     - Measurement of oxygen, carbon dioxide, and hydrogen ion
 
-## Equipment, Instrumentation and Technology (15%)
+# ***Equipment, Instrumentation and Technology (15%)***
 
 ### Anesthetic delivery systems
 1. High/low pressure gas sources 
@@ -252,7 +252,7 @@ columns: 1
 2. Fluoroscopy
 3. Radiography
 
-## General Principles of Anesthesia (30%)
+# ***General Principles of Anesthesia (30%)***
 
 ### Ethical considerations 
 ### Legal issues
@@ -297,7 +297,7 @@ columns: 1
 2. Enhanced recovery after surgery (ERAS) 
 ### Post-anesthesia care / respiratory therapy
 
-## Anesthesia for Surgical Procedures and Special Populations (30%)
+# ***Anesthesia for Surgical Procedures and Special Populations (30%)***
 
 ### Surgical and diagnostic anesthesia, including management of complications
 1. Intraabdominal-laparoscopic versus open 

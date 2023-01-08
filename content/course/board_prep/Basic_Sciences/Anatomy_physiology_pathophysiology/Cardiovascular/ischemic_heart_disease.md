@@ -17,7 +17,7 @@ Factors contributing to a decreased oxygen supply:
 
 For patients with ischemic heart disease undergoing non-cardiac surgery, the Lee Revised Cardiac Index should be used to determine overall risk and help determine if further optimization is necessary.
 
-### *Lee Revisewd Cardiac Risk Index*
+### *Lee Revised Cardiac Risk Index*
 1. High Risk Surgery
    - defined as intraperitoneal, intrathoracic, or suprainguinal vascular.
 2. Coronary Artery Disease
