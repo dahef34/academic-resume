@@ -57,7 +57,8 @@ Clinical risk factors for a perioperative major adverse cardiac event (MACE) inc
  - Obesity
  - Anemia
 
-
+{{< spoiler text="Watch videos on ischemic heart disease">}}
  {{<  youtube xBAvxnT0ZvI >}}
-
+<br>
  {{< youtube cBGI7FdMNdg >}}
+ {{< /spoiler >}}

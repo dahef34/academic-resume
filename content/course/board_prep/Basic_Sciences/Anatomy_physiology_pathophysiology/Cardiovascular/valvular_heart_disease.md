@@ -45,7 +45,9 @@ AS is the most common cardiac valve lesion in the United States and as the popul
 |Maintain contractility	| Avoid myocardial depressants                              |   
 {{< /table >}}
 
+{{< spoiler text="Watch a video on aortic stenosis">}}
 {{< youtube bqY6vj7X-eo  >}}
+{{< /spoiler >}}
 
 ## Aortic regurgitation
 
@@ -66,7 +68,10 @@ It is divided into 4 stages:
  Aortic regurgitation causes a ***VOLUME*** overload which leads to ***ECCENTRIC*** hypertrophy. 
 {{% /callout %}}
 
+
+{{< spoiler text="Watch a video on aortic regurgitation">}}
 {{< youtube j40U9WYOXFk >}}
+{{< /spoiler >}}
 
 ## Mitral stenosis
 
@@ -93,7 +98,10 @@ Management goals are similar to AS:
 |Maintain contractility	| Avoid myocardial depressants                              |   
 {{< /table >}}
 
+
+{{< spoiler text="Watch a video on mitral stenosis">}}
 {{< youtube 3L11IdpB1A0>}}
+{{< /spoiler >}}
 
 ## Mitral Regurgitation
 
@@ -108,9 +116,11 @@ It is divided into 4 stages:
 - Stage D: Symptomatic severe MR - Severe mitral valve prolapse with loss of coaptation or flail leaflet and exertional dyspnea
 
 
-
-
+{{< spoiler text="Watch a video on mitral regurgitation">}}
 {{< youtube Bjnw_jwDt1Q >}}
+{{< /spoiler >}}
+
+
 
 
 
