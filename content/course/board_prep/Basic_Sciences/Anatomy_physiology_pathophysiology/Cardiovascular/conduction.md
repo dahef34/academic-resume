@@ -3,6 +3,7 @@ title: 📊 Cardiac conduction and rhythm abnormalities
 date: '2022-12-02'
 type: book
 weight: 103
+commentable: true
 ---
 
 
