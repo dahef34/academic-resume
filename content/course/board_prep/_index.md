@@ -31,45 +31,45 @@ commentable: true
     - [Altered airway anatomy]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Respiratory/altered_airway_anatomy.md" >}})
     - [Genetic respiratory disorders]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Respiratory/genetic_respiratory_disorders.md" >}})
 3. Central nervous system
-    - Neurodegenerative diseases
-    - Myelin diseases
-    - Cerebrovascular diseases
-    - Neuropathies and myopathies
-    - Psychiatric disorders
-    - Spinal cord disorders
-    - Intracranial tumor
-    - Congenital anomalies (--, cerebral palsy) 
-    - Seizure disorders
-    - Genetic nervous system disorders
-    - Intracranial hypertension
-    - Thermoregulation
+    - [Neurodegenerative diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/CNS/neurodegenerative_diseases.md" >}})
+    - [Myelin diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/CNS/myelin.md" >}})
+    - [Cerebrovascular diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/CNS/cerebrovascular.md" >}})
+    - [Neuropathies and myopathies]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/CNS/neuropathies_myopathies.md" >}})
+    - [Psychiatric disorders]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/CNS/psychiatric.md" >}})
+    - [Spinal cord disorders]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/CNS/spinal_cord.md" >}})
+    - [Intracranial tumor]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/CNS/intracranial_tumor.md" >}})
+    - [Congenital anomalies (--, cerebral palsy)]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/CNS/congenital_anomalies.md" >}}) 
+    - [Seizure disorders]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/CNS/seizure_disorders.md" >}})
+    - [Genetic nervous system disorders]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/CNS/genetic_cns.md" >}})
+    - [Intracranial hypertension]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/CNS/intracranial.md" >}})
+    - [Thermoregulation]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/CNS/thermoregulation.md" >}})
 4. Musculoskeletal
-    - Myopathies/metabolic complications 
-    - Neuromuscular diseases
-    - Skeletal diseases
-    - Musculoskeletal disorders
-    - Genetic musculoskeletal disorders
+    - [Myopathies/metabolic complications]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Musculoskeletal/myopathies.md" >}}) 
+    - [Neuromuscular diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Musculoskeletal/neuromuscular.md" >}})
+    - [Skeletal diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Musculoskeletal/skeletal.md" >}})
+    - [Musculoskeletal disorders]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Musculoskeletal/musculoskeletal.md" >}})
+    - [Genetic musculoskeletal disorders]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Musculoskeletal/genetic_msk.md" >}})
 5. Endocrine
-    - Thyroid and parathyroid disorders 
-    - Pituitary disorders
-    - Adrenal disorders
-    - Pancreatic disorders
+    - [Thyroid and parathyroid disorders]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Endocrine/thyroid.md" >}}) 
+    - [Pituitary disorders]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Endocrine/pituitary.md" >}})
+    - [Adrenal disorders]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Endocrine/adrenal.md" >}})
+    - [Pancreatic disorders]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Endocrine/pancreatic.md" >}})
     - [Metabolic disorders]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Endocrine/metabolic_disorders.md" >}})
-    - Genetic endocrine disorders
+    - [Genetic endocrine disorders]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Endocrine/genetic_endocrine.md" >}})
 6. Hepatic
-    - Infectious diseases
-    - Biliary tract and bilirubin disorders 
-    - Cirrhotic disorders
-    - Hepatovascular complications
+    - [Infectious diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Hepatic/infectious.md" >}})
+    - [Biliary tract and bilirubin disorders]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Hepatic/biliary.md" >}}) 
+    - [Cirrhotic disorders]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Hepatic/cirrhosis.md" >}})
+    - [Hepatovascular complications]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Hepatic/hepatovascular.md" >}})
 7. Renal
-    - Primary kidney diseases and disorders 
-    - Acute kidney injury
-    - Chronic kidney injury
+    - [Primary kidney diseases and disorders]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Renal/kidney_disease.md" >}}) 
+    - [Acute kidney injury]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Renal/acute_injury.md" >}})
+    - [Chronic kidney injury]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Renal/chronic_kidney_injury.md" >}})
 8. Hematologic 
-    - Anemias
-    - Hemoglobindisorders 
-    - Coagulationdisorders 
-    - Infectious diseases
+    - [Anemias]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Hematologic/anemia.md" >}})
+    - [Hemoglobin disorders]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Hematologic/hemoglobin_disorders.md" >}}) 
+    - [Coagulation disorders]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Hematologic/coagulation.md" >}}) 
+    - [Infectious diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Hematologic/infectious_heme_disease.md" >}})
 9. Gastrointestinal
     - Esophageal disorders
     - Gastric disorders
@@ -86,7 +86,9 @@ commentable: true
     - Glaucoma
     - Burns
     - Trauma
-    - Substance abuse (alcohol, tobacco, other) 
+    - Substance abuse (alcohol, tobacco, other)
+    - [Autonomic Nervous System]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/autonomic_nervous.md" >}}) 
+    
 
 ### Pharmacology
 1. General principles

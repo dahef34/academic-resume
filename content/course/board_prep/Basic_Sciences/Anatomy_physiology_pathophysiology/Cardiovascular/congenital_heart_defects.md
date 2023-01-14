@@ -75,6 +75,8 @@ Surgical repair ranges from a multi-staged approach with final repair in later c
 
 {{< figure src="transposition.jpg" caption="Transposition of the great vessels" numbered="true">}}
 
+
+
 [Transposition of the Great Arteries from AHA](https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects/d-transposition-of-the-great-arteries)
 
 {{< spoiler text="View videos on transposition of great vessels">}}

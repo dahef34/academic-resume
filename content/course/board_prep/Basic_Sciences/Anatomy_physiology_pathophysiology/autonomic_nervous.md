@@ -1,14 +1,10 @@
 ---
-title: 📊 Autonomic Nervous System
-linkTitle: Autonomic Nervous System
-summary: Review of the autonomic nervous system
+title: 📊 Autonomic nervous system
 date: '2022-12-02'
 type: book
-tags:
-  - chapter
-weight: 20
+weight: 106
+commentable: true
 ---
-
 
 # Autonomic Nervous System
 

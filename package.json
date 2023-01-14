@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "node-quill-converter": "^0.3.3"
+    "node-quill-converter": "^0.3.3",
+    "three": "^0.148.0"
   },
   "devDependencies": {
     "@types/node": "^18.11.10"
