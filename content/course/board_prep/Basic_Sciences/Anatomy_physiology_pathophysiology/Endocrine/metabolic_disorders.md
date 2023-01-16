@@ -4,6 +4,10 @@ date: '2022-12-02'
 type: book
 weight: 505
 draft: false
+_build:
+  render: always
+  list: never
+show_breadcrumb: true
 ---
 
 

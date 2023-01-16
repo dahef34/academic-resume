@@ -4,6 +4,7 @@ date: '2022-12-02'
 type: book
 weight: 199
 commentable: true
+show_breadcrumb: true
 ---
 
 - [Obstructive diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Respiratory/obstructive_diseases.md" >}})

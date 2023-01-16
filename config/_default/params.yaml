@@ -60,6 +60,7 @@ locale:
 # Site features
 
 features:
+  docs_section_pager: true
   syntax_highlighter:
     theme_light: github-light
     theme_dark: dracula

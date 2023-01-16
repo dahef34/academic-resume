@@ -6,6 +6,7 @@ weight: 102
 _build:
   render: always
   list: never
+show_breadcrumb: true
 ---
 
 
@@ -86,6 +87,13 @@ Surgical repair ranges from a multi-staged approach with final repair in later c
 {{< youtube gYLeNjU >}}
 {{< /spoiler >}}
 
+
+
+[Previous - Valvular heart disease]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/valvular_heart_disease" >}})
+<br><br>
+[Next - Cardiac conduction and rhythm abnormalities]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/conduction" >}})
+
 ### References
 
 [^1]: Blausen.com staff (2014). "Medical gallery of Blausen Medical 2014". WikiJournal of Medicine 1 (2). DOI:10.15347/wjm/2014.010. ISSN 2002-4436.
+

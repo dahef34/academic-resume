@@ -4,6 +4,7 @@ date: '2022-12-02'
 type: book
 weight: 799
 commentable: true
+show_breadcrumb: true
 ---
 
 - [Anemias]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Hematologic/anemia.md" >}})

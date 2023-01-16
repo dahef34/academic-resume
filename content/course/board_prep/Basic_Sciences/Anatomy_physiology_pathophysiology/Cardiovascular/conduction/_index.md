@@ -7,6 +7,7 @@ commentable: true
 _build:
   render: always
   list: never
+show_breadcrumb: true
 ---
 
 
@@ -22,3 +23,6 @@ Cardiac output is the quantity of blood pumped by each ventricle per minute.
 
 
 
+[Previous - Congenital heart defects]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/congenital_heart_defects" >}})
+<br><br>
+[Next - Cardiovascular and peripheral vascular complications]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/cardiovascular_complications" >}}) 

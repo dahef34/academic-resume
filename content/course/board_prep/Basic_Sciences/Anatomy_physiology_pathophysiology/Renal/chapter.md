@@ -4,6 +4,7 @@ date: '2022-12-02'
 type: book
 weight: 699
 commentable: true
+show_breadcrumb: true
 ---
 
 - [Primary kidney diseases and disorders]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Renal/kidney_disease.md" >}}) 

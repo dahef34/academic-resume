@@ -7,6 +7,15 @@ commentable: true
 _build:
   render: always
   list: never
+show_breadcrumb: true
+image:
+  placement: 3
+  caption: "Original work"
+  focal_point: "TopLeft"
+  preview_only: false
+  alt_text: Original work by J. Hefley
+
+
 ---
 
 
@@ -131,3 +140,8 @@ It is divided into 4 stages:
 
 
 [^1]: By ZooFari - Own workSupporting references (cache), CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=9841860
+
+
+[Previous - Ischemic heart disease]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/ischemic_heart_disease" >}})
+<br>  
+[Next - Congenital heart defects]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/congenital_heart_defects" >}})
