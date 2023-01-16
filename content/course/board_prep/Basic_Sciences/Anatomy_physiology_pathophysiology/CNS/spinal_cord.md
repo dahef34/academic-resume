@@ -1,9 +1,7 @@
 ---
-title: 📊 Spinal cord disorders
-
+title: 🧠 Spinal cord disorders
 date: '2022-12-02'
 type: book
-weight: 22
-columns: 100
+weight: 306
 commentable: true
 ---

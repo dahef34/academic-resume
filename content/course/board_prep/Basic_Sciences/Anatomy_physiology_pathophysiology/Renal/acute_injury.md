@@ -1,8 +1,7 @@
 ---
-title: 📊 Acute kigney injury
+title: 🫘 Acute kidney injury
 date: '2022-12-02'
 type: book
-weight: 22
-columns: 100
+weight: 702
 commentable: true
 ---

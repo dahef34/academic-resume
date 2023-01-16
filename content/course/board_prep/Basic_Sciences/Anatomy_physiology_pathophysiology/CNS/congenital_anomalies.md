@@ -1,8 +1,7 @@
 ---
-title: 📊 Congenital CNS Anomalies
+title: 🧠 Congenital CNS Anomalies
 date: '2022-12-02'
 type: book
-weight: 22
-columns: 100
+weight: 308
 commentable: true
 ---

@@ -1,8 +1,7 @@
 ---
-title: 📊 Genetic endorcrine disorders
+title: 💠 Genetic endorcrine disorders
 date: '2022-12-02'
 type: book
-weight: 22
-columns: 100
+weight: 506
 commentable: true
 ---

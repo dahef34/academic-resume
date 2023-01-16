@@ -1,8 +1,7 @@
 ---
-title: 📊 Thermoregulation
+title: 🧠 Thermoregulation
 date: '2022-12-02'
 type: book
-weight: 22
-columns: 100
+weight: 312
 commentable: true
 ---

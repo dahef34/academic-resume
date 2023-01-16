@@ -1,8 +1,7 @@
 ---
-title: 📊 Genetic nervous system disorders
+title: 🧠 Genetic nervous system disorders
 date: '2022-12-02'
 type: book
-weight: 22
-columns: 100
+weight: 310
 commentable: true
 ---

@@ -1,8 +1,8 @@
 ---
-title: 📊 Autonomic nervous system
+title: Autonomic nervous system
 date: '2022-12-02'
 type: book
-weight: 106
+weight: 1106
 commentable: true
 ---
 

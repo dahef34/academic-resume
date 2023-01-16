@@ -1,8 +1,7 @@
 ---
-title: 📊 Cerebrovascular Disease
+title: 🧠 Cerebrovascular Disease
 date: '2022-12-02'
 type: book
-weight: 22
-columns: 100
+weight: 303
 commentable: true
 ---

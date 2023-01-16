@@ -1,8 +1,7 @@
 ---
-title: 📊 Chronic kidney injury
+title: 🫘 Chronic kidney injury
 date: '2022-12-02'
 type: book
-weight: 22
-columns: 100
+weight: 703
 commentable: true
 ---

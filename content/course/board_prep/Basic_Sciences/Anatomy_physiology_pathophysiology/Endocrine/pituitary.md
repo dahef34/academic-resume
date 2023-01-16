@@ -1,8 +1,7 @@
 ---
-title: 📊 Pituitary disorders
+title: 💠 Pituitary disorders
 date: '2022-12-02'
 type: book
-weight: 22
-columns: 100
+weight: 502
 commentable: true
 ---

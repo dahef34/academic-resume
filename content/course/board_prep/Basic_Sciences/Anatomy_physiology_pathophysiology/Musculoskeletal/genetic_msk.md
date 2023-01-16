@@ -1,8 +1,7 @@
 ---
-title: 📊 Genetic Musculoskeletal disorders
+title: 💪 Genetic Musculoskeletal disorders
 date: '2022-12-02'
 type: book
-weight: 22
-columns: 100
+weight: 405
 commentable: true
 ---
