@@ -142,6 +142,6 @@ It is divided into 4 stages:
 [^1]: By ZooFari - Own workSupporting references (cache), CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=9841860
 
 
-[Previous - Ischemic heart disease]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/ischemic_heart_disease" >}})
+[Previous - Ischemic heart disease]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/ischemic_heart_disease/ihd.md" >}})
 <br>  
-[Next - Congenital heart defects]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/congenital_heart_defects" >}})
+[Next - Congenital heart defects]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/congenital_heart_defects/congenital.md" >}})

@@ -14,6 +14,6 @@ show_breadcrumb: true
 ## Cardiomyopathy and heart failure
 
 
-[Previous - Pericardial diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/pericardial_disease" >}})
+[Previous - Pericardial diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/pericardial_disease/pericardial.md" >}})
 <br><br>
 [Next - Respiratory Disease]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Respiratory/chapter.md" >}})

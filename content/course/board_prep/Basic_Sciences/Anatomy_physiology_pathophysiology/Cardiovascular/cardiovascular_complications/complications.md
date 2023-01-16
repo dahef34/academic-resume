@@ -45,9 +45,9 @@ Heart disease is the leading cause of death in the United States. [^2]
 
 
 
-[Previous - Cardiac conduction and rhythm abnormalities]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/conduction" >}})
+[Previous - Cardiac conduction and rhythm abnormalities]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/conduction/conduction.md" >}})
 <br><br>
-[Next - Infectious diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/infectious_disease" >}})
+[Next - Infectious diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/infectious_disease/infectious.md" >}})
 
 ## References
 [^1]: https://nccd.cdc.gov/DHDSPAtlas/?state=County&class=1&subclass=1&theme=1&filters=[[9,1],[2,1],[3,1],[4,1],[7,1]]&ol=[10,14]

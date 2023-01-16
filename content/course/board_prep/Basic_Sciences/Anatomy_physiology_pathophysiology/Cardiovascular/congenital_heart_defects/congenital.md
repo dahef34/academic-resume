@@ -89,9 +89,9 @@ Surgical repair ranges from a multi-staged approach with final repair in later c
 
 
 
-[Previous - Valvular heart disease]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/valvular_heart_disease" >}})
+[Previous - Valvular heart disease]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/valvular_heart_disease/valvular.md" >}})
 <br><br>
-[Next - Cardiac conduction and rhythm abnormalities]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/conduction" >}})
+[Next - Cardiac conduction and rhythm abnormalities]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/conduction/conduction.md" >}})
 
 ### References
 

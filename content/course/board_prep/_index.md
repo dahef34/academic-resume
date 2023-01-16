@@ -17,15 +17,8 @@ pager: true
 
 # ***Basic Sciences (25%)***
 ### Anatomy, physiology and pathophysiology
-1. Cardiovascular
-    - [Ischemic heart disease]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/ischemic_heart_disease" >}})  
-    - [Valvular heart disease]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/valvular_heart_disease" >}})
-    - [Congenital heart defects]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/congenital_heart_defects" >}})
-    - [Cardiac conduction and rhythm abnormalities]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/conduction" >}})
-    - [Cardiovascular and peripheral vascular complications]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/cardiovascular_complications" >}}) 
-    - [Infectious diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/infectious_disease" >}})
-    - [Pericardial diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/pericardial_disease" >}})
-    - [Cardiomyopathy and heart failure]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/cardiomyopathy" >}})
+1. [Cardiovascular]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular" >}})
+
 2. Respiratory
     - [Obstructive diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Respiratory/obstructive_diseases.md" >}})
     - [Restrictive diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Respiratory/restrictive_diseases.md" >}})

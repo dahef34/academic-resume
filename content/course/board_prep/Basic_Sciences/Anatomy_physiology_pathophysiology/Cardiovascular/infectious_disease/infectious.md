@@ -39,6 +39,6 @@ The most commonly acquired heart disease in people under the age of 25.  It star
 Pericarditis is an inflammation of the sac containing the heart (pericardium).  Pericarditis can be idiopathic or viral and the most common symptom is a stabbing chest pain.
 
 
-[Previous - Cardiovascular and peripheral vascular complications]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/cardiovascular_complications" >}}) 
+[Previous - Cardiovascular and peripheral vascular complications]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/cardiovascular_complications/complications.md" >}}) 
 <br><br>
-[Next - Pericardial diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/pericardial_disease" >}})
+[Next - Pericardial diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/pericardial_disease/pericardial.md" >}})
