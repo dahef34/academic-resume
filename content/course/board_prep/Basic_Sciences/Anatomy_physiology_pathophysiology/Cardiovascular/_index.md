@@ -5,6 +5,9 @@ type: book
 weight: 99
 commentable: true
 show_breadcrumb: true
+_build:
+  render: always
+  list: never
 ---
 
 
