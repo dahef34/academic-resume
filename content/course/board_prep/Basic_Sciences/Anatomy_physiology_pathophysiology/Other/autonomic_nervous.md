@@ -1,7 +1,7 @@
 ---
 title: Autonomic nervous system
 date: '2022-12-02'
-type: book
+type: docs
 weight: 1106
 commentable: true
 _build:

@@ -3,7 +3,7 @@ title: 📊 Board Prep Study Materials
 linkTitle: Board Prep Study Materials
 summary: Simple board prep study materials for students
 date: '2022-12-02'
-type: book
+type: docs
 tags:
   - prep
 weight: 10
@@ -14,58 +14,35 @@ show_breadcrumb: true
 pager: true
 ---
 
+Use the links below as well as the bread crumbs above to navigate the content.  The bibliography below will be listed for references in each of the sections.
+
+# Bibliography
+1. <span style="color:blue">Barash PG, Cullen BF, Stoelting RK, Cahalan MK, Stock MC, Ortega R, Sharar SR, Holt NF, eds. Clinical Anesthesia. 8th edition. Wolters Kluwer; 2017.</span>
+2. <span style="color:purple">Chestnut DH, Wong CA, Tsen LC, Ngan Kee WD, Beilin Y, Mhyre JM, Bateman BT, eds. 6th edition. Elsevier; 2020.</span>
+3. <span style="color:pink">Coté CJ, Lerman J, Anderson BJ. Coté and Lerman's A Practice of Anesthesia for Infants and Children. 6th edition. Elsevier; 2018.</span>
+4. <span style="color:brown">Ehrenwerth J, Eisenkraft J, Berry J, eds. Anesthesia Equipment: Principles and Applications. 3rd edition. Elsevier; 2020.</span>
+5. <span style="color:green">Farag E, Mounir-Soliman L, Brown DL. Brown's Atlas of Regional Anesthesia. 6th edition. Elsevier; 2020.</span>
+6. <span style="color:red">Flood P, Rathmell JP, Urman RD, eds. Stoelting's Pharmacology & Physiology in Anesthetic Practice. 6th edition. Wolters Kluwer; 2021.</span>
+7. <span style="color:yellow">Foster SD, Callahan MF, eds. A Professional Study and Resource Guide for the CRNA. 2nd edition. American Association of Nurse Anesthetists; 2011.</span>
+8. <span style="color:orange">Gropper MA, Cohen NH, Eriksson LI, Fleisher LA, Leslie K, Wiener-Kronish JP, eds. Miller's Anesthesia (Vols. 1-2). 9th edition. Elsevier; 2019.</span>
+9. <span style="color:indigo">Rosenblatt WH, Popescu WM. Master Techniques in Upper and Lower Airway Management. Wolters Kluwer (LWW); 2015.</span>
+10. <span style="color:teal">Hall JE, Hall ME. Guyton and Hall Textbook of Medical Physiology. 14th edition. Elsevier; 2020.</span>
+11. <span style="color:maroon">Hines RL, Jones SB, eds. Stoelting's Anesthesia and Co-existing Disease. 8th edition. Elsevier; 2021.</span>
+12. <span style="color:aquamarine">Jaffe RA, Schmiesing CA, Golianu B. Anesthesiologist's Manual of Surgical Procedures. 6th ed. Wolters Kluwer; 2020.</span>
+13. <span style="color:darkgreen">Nagelhout JJ, Elisha S, Heiner JS, eds. Nurse Anesthesia. 7th edition. Elsevier; 2020.</span>
+
+# Content
 
 # ***Basic Sciences (25%)***
 ### Anatomy, physiology and pathophysiology
 1. [Cardiovascular]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular" >}})
-
-2. Respiratory
-    - [Obstructive diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Respiratory/obstructive_diseases.md" >}})
-    - [Restrictive diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Respiratory/restrictive_diseases.md" >}})
-    - [Infectious diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Respiratory/infectious_diseases.md" >}})
-    - [Pulmonary vascular complications]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Respiratory/pulmonary_vascular_complications.md" >}}) 
-    - [Altered airway anatomy]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Respiratory/altered_airway_anatomy.md" >}})
-    - [Genetic respiratory disorders]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Respiratory/genetic_respiratory_disorders.md" >}})
-3. Central nervous system
-    - [Neurodegenerative diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/CNS/neurodegenerative_diseases.md" >}})
-    - [Myelin diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/CNS/myelin.md" >}})
-    - [Cerebrovascular diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/CNS/cerebrovascular.md" >}})
-    - [Neuropathies and myopathies]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/CNS/neuropathies_myopathies.md" >}})
-    - [Psychiatric disorders]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/CNS/psychiatric.md" >}})
-    - [Spinal cord disorders]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/CNS/spinal_cord.md" >}})
-    - [Intracranial tumor]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/CNS/intracranial_tumor.md" >}})
-    - [Congenital anomalies]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/CNS/congenital_anomalies.md" >}}) 
-    - [Seizure disorders]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/CNS/seizure_disorders.md" >}})
-    - [Genetic nervous system disorders]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/CNS/genetic_cns.md" >}})
-    - [Intracranial hypertension]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/CNS/intracranial.md" >}})
-    - [Thermoregulation]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/CNS/thermoregulation.md" >}})
-4. Musculoskeletal
-    - [Myopathies/metabolic complications]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Musculoskeletal/myopathies.md" >}}) 
-    - [Neuromuscular diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Musculoskeletal/neuromuscular.md" >}})
-    - [Skeletal diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Musculoskeletal/skeletal.md" >}})
-    - [Musculoskeletal disorders]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Musculoskeletal/musculoskeletal.md" >}})
-    - [Genetic musculoskeletal disorders]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Musculoskeletal/genetic_msk.md" >}})
-5. Endocrine
-    - [Thyroid and parathyroid disorders]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Endocrine/thyroid.md" >}}) 
-    - [Pituitary disorders]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Endocrine/pituitary.md" >}})
-    - [Adrenal disorders]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Endocrine/adrenal.md" >}})
-    - [Pancreatic disorders]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Endocrine/pancreatic.md" >}})
-    - [Metabolic disorders]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Endocrine/metabolic_disorders.md" >}})
-    - [Genetic endocrine disorders]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Endocrine/genetic_endocrine.md" >}})
-6. Hepatic
-    - [Infectious diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Hepatic/infectious.md" >}})
-    - [Biliary tract and bilirubin disorders]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Hepatic/biliary.md" >}}) 
-    - [Cirrhotic disorders]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Hepatic/cirrhosis.md" >}})
-    - [Hepatovascular complications]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Hepatic/hepatovascular.md" >}})
-7. Renal
-    - [Primary kidney diseases and disorders]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Renal/kidney_disease.md" >}}) 
-    - [Acute kidney injury]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Renal/acute_injury.md" >}})
-    - [Chronic kidney injury]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Renal/chronic_kidney_injury.md" >}})
-8. Hematologic 
-    - [Anemias]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Hematologic/anemia.md" >}})
-    - [Hemoglobin disorders]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Hematologic/hemoglobin_disorders.md" >}}) 
-    - [Coagulation disorders]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Hematologic/coagulation.md" >}}) 
-    - [Infectious diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Hematologic/infectious_heme_disease.md" >}})
+2. [Respiratory]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Respiratory" >}})
+3. [Central nervous system]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/CNS" >}})
+4. [Musculoskeletal]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Musculoskeletal" >}})
+5. [Endocrine]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Endocrine" >}})
+6. [Hepatic]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Hepatic" >}})
+7. [Renal]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Renal" >}})
+8. [Hematologic]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Hematologic" >}}) 
 9. Gastrointestinal
     - Esophageal disorders
     - Gastric disorders

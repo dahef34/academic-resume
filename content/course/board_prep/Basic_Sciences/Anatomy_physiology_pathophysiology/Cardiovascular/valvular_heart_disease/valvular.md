@@ -1,7 +1,7 @@
 ---
 title: ❤️‍🩹 Valvular Heart Disease
 date: '2022-12-02'
-type: book
+type: docs
 weight: 101
 commentable: true
 _build:
@@ -30,7 +30,7 @@ At first, I mistakenly thought it was named after a miter joint where two pieces
 {{< figure src="miter.png" caption="Miter joint" numbered="true" >}}
 These leafelets are attached to the papillary muscles in the ventricles by chordae tendinae as illustrated in the picture below.  These connections are only in the atrioventricular valves because without them the valves would almost certainly fail with the force of blood ejection during systole.  The aortic and pulmonic valves are called semilunar valves and each typically have 3 leaflets.
 
-{{< figure src="Heart_diagram-en.svg" caption="Cross-section of heart (labeled)" numbered="true" >}}
+{{< figure src="Heart_diagram-en.svg" caption="Cross-section of heart (labeled)" numbered="true" >}}[^14]
 
 {{% callout info %}}
  The aortic valve has 2 anterior leaflets and 1 posterior leaflet.  
@@ -137,11 +137,23 @@ It is divided into 4 stages:
 
 
 
-
-
-[^1]: By ZooFari - Own workSupporting references (cache), CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=9841860
-
-
 [Previous - Ischemic heart disease]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/ischemic_heart_disease/ihd.md" >}})
 <br>  
 [Next - Congenital heart defects]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/congenital_heart_defects/congenital.md" >}})
+
+### References
+
+[^1]: <span style="color:blue">Barash PG, Cullen BF, Stoelting RK, Cahalan MK, Stock MC, Ortega R, Sharar SR, Holt NF, eds. Clinical Anesthesia. 8th edition. Wolters Kluwer; 2017.</span>
+[^2]: <span style="color:purple">Chestnut DH, Wong CA, Tsen LC, Ngan Kee WD, Beilin Y, Mhyre JM, Bateman BT, eds. 6th edition. Elsevier; 2020.</span>
+[^3]: <span style="color:pink">Coté CJ, Lerman J, Anderson BJ. Coté and Lerman's A Practice of Anesthesia for Infants and Children. 6th edition. Elsevier; 2018.</span>
+[^4]: <span style="color:brown">Ehrenwerth J, Eisenkraft J, Berry J, eds. Anesthesia Equipment: Principles and Applications. 3rd edition. Elsevier; 2020.</span>
+[^5]: <span style="color:green">Farag E, Mounir-Soliman L, Brown DL. Brown's Atlas of Regional Anesthesia. 6th edition. Elsevier; 2020.</span>
+[^6]: <span style="color:red">Flood P, Rathmell JP, Urman RD, eds. Stoelting's Pharmacology & Physiology in Anesthetic Practice. 6th edition. Wolters Kluwer; 2021.</span>
+[^7]: <span style="color:yellow">Foster SD, Callahan MF, eds. A Professional Study and Resource Guide for the CRNA. 2nd edition. American Association of Nurse Anesthetists; 2011.</span>
+[^8]: <span style="color:orange">Gropper MA, Cohen NH, Eriksson LI, Fleisher LA, Leslie K, Wiener-Kronish JP, eds. Miller's Anesthesia (Vols. 1-2). 9th edition. Elsevier; 2019.</span>
+[^9]: <span style="color:indigo">Rosenblatt WH, Popescu WM. Master Techniques in Upper and Lower Airway Management. Wolters Kluwer (LWW); 2015.</span>
+[^10]: <span style="color:teal">Hall JE, Hall ME. Guyton and Hall Textbook of Medical Physiology. 14th edition. Elsevier; 2020.</span>
+[^11]: <span style="color:maroon">Hines RL, Jones SB, eds. Stoelting's Anesthesia and Co-existing Disease. 8th edition. Elsevier; 2021.</span>
+[^12]: <span style="color:aquamarine">Jaffe RA, Schmiesing CA, Golianu B. Anesthesiologist's Manual of Surgical Procedures. 6th ed. Wolters Kluwer; 2020.</span>
+[^13]: <span style="color:darkgreen">Nagelhout JJ, Elisha S, Heiner JS, eds. Nurse Anesthesia. 7th edition. Elsevier; 2020.</span>
+[^14]: By ZooFari - Own workSupporting references (cache), CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=9841860

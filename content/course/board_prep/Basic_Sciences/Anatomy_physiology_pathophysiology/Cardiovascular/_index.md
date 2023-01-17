@@ -1,7 +1,7 @@
 ---
 title: 🗂 Cardiovascular System Chapter
 date: '2022-12-02'
-type: book
+type: docs
 weight: 99
 commentable: true
 show_breadcrumb: true
