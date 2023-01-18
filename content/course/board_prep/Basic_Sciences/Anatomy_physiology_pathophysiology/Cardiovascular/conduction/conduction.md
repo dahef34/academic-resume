@@ -92,9 +92,7 @@ Indications for ICD include[^1]
 | D = Dual       | D = Dual                       |                           | D = Dual                       |
 {{< /table >}}
 
-[Previous - Congenital heart defects]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/congenital_heart_defects/congenital.md" >}})
-<br><br>
-[Next - Cardiovascular and peripheral vascular complications]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/cardiovascular_complications/complications.md" >}}) 
+
 
 ### Critical Elements of a preoperative evaluation
 1.  Date of last interrogation
@@ -107,6 +105,10 @@ Indications for ICD include[^1]
 8.  Response to magnet
 9.  Last pacing threshhold
 
+
+[Previous - Congenital heart defects]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/congenital_heart_defects/congenital.md" >}})
+<br><br>
+[Next - Cardiovascular and peripheral vascular complications]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/cardiovascular_complications/complications.md" >}}) 
 
 ### References
 
