@@ -43,14 +43,14 @@ $$
 {{<figure src="cardiac_pv_loop.jpg" caption="Andyhenton83, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons">}}
 
 
-[Previous - Pericardial diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/pericardial_disease/pericardial.md" >}})
-<br><br>
-[Next - Respiratory Disease]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Respiratory/" >}})
 
+
+
+{{< figure src="cardiomyopathy.png" caption="Npatchett, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons">}}
 
 
 ### Dilated Cardiomyopathy
-Dilated cardiomyopathy (DCM) is a type of cardiomyopathy in which the heart becomes enlarged and weakened, leading to a decrease in its ability to pump blood effectively. The left ventricle, the main pumping chamber of the heart, is usually affected and becomes enlarged and dilated. This dilation causes the walls of the ventricle to become thin and weak, making it difficult for the ventricle to contract and pump blood.
+Dilated cardiomyopathy (DCM) is a type of cardiomyopathy in which the heart becomes enlarged and weakened, leading to a decrease in its ability to pump blood effectively. The left ventricle is usually affected and becomes enlarged and dilated. This dilation causes the walls of the ventricle to become thin and weak, making it difficult for the ventricle to contract and pump blood.
 
 DCM can be caused by a variety of factors, including viral infections, genetic mutations, high blood pressure, alcohol or drug abuse, and other underlying medical conditions such as diabetes and thyroid disease. The symptoms of DCM include shortness of breath, fatigue, chest pain, and swelling in the legs and feet.
 
@@ -59,7 +59,7 @@ Treatment options for DCM may include medications such as ACE inhibitors, beta-b
 
 ### Hypertrophic Cardiomyopathy
 
-Hypertrophic cardiomyopathy (HCM) is a type of cardiomyopathy in which the heart muscle becomes thickened, especially the muscle of the left ventricle (the main pumping chamber of the heart). This thickening can make it harder for the heart to pump blood, and can also cause obstruction of blood flow out of the heart. It's a genetic disorder caused by mutations in genes encoding sarcomeric proteins, that leads to abnormal cardiac muscle growth, and it's the most common genetic heart disease, with prevalence of about 1 in 500 people.
+Hypertrophic cardiomyopathy (HCM) is a type of cardiomyopathy in which the heart muscle becomes thickened, especially the muscle of the left ventricle. This thickening can make it harder for the heart to pump blood, and can also cause obstruction of blood flow out of the heart. It's a genetic disorder caused by mutations in genes encoding sarcomeric proteins, that leads to abnormal cardiac muscle growth, and it's the most common genetic heart disease, with prevalence of about 1 in 500 people.
 
 Symptoms of HCM can vary widely, and some people may not have any symptoms at all. Common symptoms include chest pain, shortness of breath, fainting, and an irregular heartbeat. HCM can also increase the risk of sudden cardiac death, particularly in young athletes.
 
@@ -75,7 +75,9 @@ RCM can be caused by a variety of underlying medical conditions, including amylo
 Treatment options for RCM may include medications such as diuretics and other medications to improve heart function, and in severe cases, a heart transplant. Lifestyle changes such as maintaining a healthy diet, regular physical activity, and quitting smoking can also help improve symptoms and slow down the progression of the disease.
 
 
-{{< figure src="enlarged_heart.png" caption="AI generated image of enlarged heart">}}
+[Previous - Pericardial diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/pericardial_disease/pericardial.md" >}})
+<br><br>
+[Next - Respiratory Disease]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Respiratory/" >}})
 
 ### References
 
