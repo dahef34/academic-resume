@@ -14,8 +14,8 @@ weight: 10
 title: LCDR Justin Hefley
 design:
   background:
-    gradient_end: "#20245D"
-    gradient_start: "#20245D"
+    gradient_end: "#3f51b5"
+    gradient_start: "#3f51b5"
     text_color_light: true
 ---
 
