@@ -378,7 +378,7 @@ Use the links below as well as the bread crumbs above to navigate the content.  
     - High-risk parturients
     - Nonobstetric surgery in the parturient
     - Management of complications
-3. Geriatrics
+3. [Geriatrics]({{< ref "/course/board_prep/Special_populations/Geriatric" >}}) 
     - Anatomy, physiology, and pathophysiology 
     - Pharmacology
     - Anesthesia techniques/procedures
