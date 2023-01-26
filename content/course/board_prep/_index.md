@@ -371,7 +371,7 @@ Use the links below as well as the bread crumbs above to navigate the content.  
     - Pharmacology
     - Anesthesia techniques/procedures
     - Management of complications
-2. Obstetrics
+2. [Obstetrics]({{< ref "/course/board_prep/Special_populations/Obstetrics/anatomy_physiology" >}})
     - Anatomy, physiology, and pathophysiology 
     - Pharmacology
     - Anesthesia techniques/procedures

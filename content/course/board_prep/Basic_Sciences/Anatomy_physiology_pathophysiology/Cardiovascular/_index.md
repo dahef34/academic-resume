@@ -22,6 +22,8 @@ _build:
 
 ## Basic Review
 
+Click the circles below to remove information and test your knowledge
+
 ```markmap {height="1000px"}
 
 
