@@ -20,8 +20,6 @@ content:
       tag: '*'
     - name: Site Directors Guide
       tag: 'sd'
-    - name: Drug Cards
-      tag: 'drugs'
     - name: Board Prep
       tag: 'prep'
 design:
