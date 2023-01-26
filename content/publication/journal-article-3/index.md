@@ -35,8 +35,8 @@ abstract: "BACKGROUND: Intrathecal morphine provides effective analgesia after c
 # Summary. An optional shortened abstract.
 summary: 
 
-tags:
-- Source Themes
+tags: ["Breastfeeding", "Intrathecal Morphine","EBP"]
+
 featured: false
 
 # links:
@@ -70,7 +70,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+
 ---
 
 {{% callout note %}}

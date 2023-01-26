@@ -33,8 +33,8 @@ abstract: "INTRODUCTION: Ultrasound guidance is now widely available in military
 # Summary. An optional shortened abstract.
 summary: 
 
-tags:
-- Source Themes
+tags: ["Ultrasound", "IV", "EBP"]
+
 featured: false
 
 # links:
@@ -51,10 +51,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-#image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-#  focal_point: ""
-#  preview_only: false
+image:
+  caption: '© Nevit Dilmen, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons'
+  focal_point: ""
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

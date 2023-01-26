@@ -4,8 +4,7 @@ linkTitle: Desflurane
 summary: Desflurane Information
 date: '2022-11-24'
 type: book
-tags:
-  - chapter
+
 weight: 10
 ---
 

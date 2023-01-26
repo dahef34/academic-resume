@@ -6,12 +6,12 @@ title: Explore top courses
 subtitle:
 content:
   filters:
+    tags: ['sd', 'drugs', 'prep']
     folders:
       - course
     kinds:
       - section
-    exclude_tags:
-      - chapter
+
 
   filter_default: 0
 
@@ -22,6 +22,8 @@ content:
       tag: 'sd'
     - name: Drug Cards
       tag: 'drugs'
+    - name: Board Prep
+      tag: 'prep'
 design:
   columns: '1'
   view: masonry

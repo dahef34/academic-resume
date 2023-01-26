@@ -4,8 +4,7 @@ linkTitle: Inhalational Anesthetics
 summary: Inhalational Anesthetics Information
 date: '2022-11-24'
 type: book
-tags:
-  - chapter
+
 weight: 10
 ---
 

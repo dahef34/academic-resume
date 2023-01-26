@@ -34,7 +34,7 @@ abstract: Recent aggression in Ukraine has demonstrated the potential need for a
 # Summary. An optional shortened abstract.
 summary: Significant bottle-to-bottle variability in both formulations with the majority of molecules being less than 5μm but containing some globular formations as large as 100μm. Significant variability in the pH of propofol with sodium metabisulMte was noted and found to be outside of the manufacturer’s stated pH.
 
-tags: []
+tags: ["Nato", "Cold Weather", "Propofol", "Research"]
 
 # Display this page in the Featured widget?
 featured: true

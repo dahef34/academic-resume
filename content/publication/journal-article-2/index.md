@@ -30,13 +30,12 @@ publication_types: ["2"]
 publication: "*Journal of Perianesthesia Nursing*"
 publication_short: ""
 
-abstract: "PURPOSE: Mothers often request guidance on when it is safe to resume breastfeeding after surgery. At our institution, this guidance was inconsistent  and not well-grounded in current research. This project sought to bring  recommendations to patients in line with current evidence about when to recommend  resumption of breastfeeding after surgery. DESIGN: A local practice guideline was  developed based on our systematic review, then staff were educated about the  guideline. METHODS: Transfer to clinical practice was measured by reported  practice recommendations. A repeated measures design measured change in provider  knowledge, recommendations, and confidence in these recommendations. A follow-up  assessment was conducted at 2 years to measure long-term impact. FINDINGS: After  the educational session, there was a two-fold increase in the number of  perianesthesia staff who recommended resumption of breastfeeding as soon as the  mother had recovered from anesthesia. CONCLUSIONS: This evidence-based practice  project standardized delivery of breastfeeding recommendations by perioperative  staff."
+abstract: "PURPOSE: Mothers often request guidance on when it is safe to resume breastfeeding after surgery. At our institution, this guidance was inconsistent  and not well-grounded in current research. This project sought to bring  recommendations to patients in line with current evidence about when to recommend  resumption of breastfeeding after surgery. DESIGN: A local practice guideline was  developed based on our systematic review, then staff were educated about the  guideline. METHODS: Transfer to clinical practice was measured by reported  practice recommendations. A repeated measures design measured change in provider  knowledge, recommendations, and confidence in these recommendations. A follow-up  assessment was conducted at 2 years to measure long-term impact. FINDINGS: After  the educational session, there was a two-fold increase in the number of  perianesthesia staff who recommended resumption of breastfeeding as soon as the  mother had recovered from anesthesia. CONCLUSIONS: This evidence-based practice  project standardized delivery of breastfeeding recommendations by perioperative staff."
 
 # Summary. An optional shortened abstract.
 summary: 
 
-tags:
-- Source Themes
+tags: ["Breastfeeding", "EBP"]
 featured: false
 
 # links:

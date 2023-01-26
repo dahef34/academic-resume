@@ -4,8 +4,7 @@ linkTitle: Legal Aspects
 summary: Review of legal aspects.
 date: '2022-12-02'
 type: docs
-tags:
-  - chapter
+
 weight: 20
 ---
 

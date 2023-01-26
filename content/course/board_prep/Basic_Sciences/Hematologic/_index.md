@@ -4,8 +4,6 @@ linkTitle: Hematologic System
 summary: Review of the hematologic system
 date: '2022-12-02'
 type: docs
-tags:
-  - chapter
 weight: 20
 _build:
   render: always

@@ -1,16 +1,22 @@
 ---
-title: "An example journal article 5"
+title: "Implementing Ultrasound-Guided Intravenous Practices on a Multi-Service unit"
 authors:
+- Dagoberto Salinas
+- Brandon J. Sartain
+- John F. Sullivan
+- Chad B. Moore
 - admin
-- Robert Ford
 author_notes:
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
 date: "2015-09-01T00:00:00Z"
 doi: ""
-draft: true
+draft: false
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,23 +25,23 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Journal of MEDSURG Nursing, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: "Peripheral intravenous catheterization (PIVC) is considered the most widely performed invasive procedure in the hospital setting. It frequently is needed for the prompt diagnosis and treatment of admitted patients (Cooke et al., 2018). PIVC is required in 70%-80% of hospitalized patients (Cooke et al., 2018; Van Loon et al.,2018) and most often is indicated for medication administration, hydration therapy, diagnostic and laboratory testing, and blood transfusion (Reeves et al., 2017; Stolz et al., 2015; Van Loon et al., 2018). Initiation of IV therapy, nonetheless, may become complicated in patients who have poor vasculature or known history of difficult venous access (DVA) (10%-24% of adults, approximately 37% of children) (Kaur et al., 2019). Patients presenting with conditions, such as diabetes, drug abuse, sickle cell anemia, obesity, and shock, may pose a significant challenge to establishingPIVC (Gottlieb et al., 2017; Heinrichs et al., 2013). Multiple PIVC attempts may be needed in patients with poor vasculature, leading to pain and discomfort. Research has documented first-attempt success rates via traditional methods at 53%-75.6% and 76%-91% for pediatric and adult populations, respectively (Heinrichs et al., 2013). Furthermore, clinical nurses have reported an average as high as 5.5 attempts per PIVC (Reeves et al., 2017). Physicians often resort to central venous catheter (CVC) insertions for cases of DVA, carrying a 5%-19% complication rate (e.g., local infection, bacteremia, thrombosis, pneumothorax) (Kaur et al., 2019; Liu et al., 2014; Rodriguez-Calero et al.,2018; Tsotsolis et al., 2015). The estimated cost of a single CVC-related infection in 2019 was $46,000, resulting in annual costs of $2.3 billion nationally (Haddadin & Regunath, 2019). Previous studies demonstrated implementation of an ultrasound-guided peripheral intravenous (USGPIV) catheter program by trained personnel can reduce CVC placement rates in noncritical patients by up to 85% (Au et al.,2012; Rodriguez-Calero et al., 2018; Shokoohi et al., 2013). Similarly, Duran-Gehring and coauthors (2016) documented a 46.5% reduction in the need to obtain CVC access in 830 patients with DVA. This project explored the following evidence-based practice (EBP) question: When properly implemented, does an USGPIV program reduce multiple intravenous access attempts in medical-surgical patients with DVA compared to traditional methods?"
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Nurses and paraprofessionals can become proficient in using ultrasound-guided peripheral intravenous to im prove catheterization success rates. Education and training can be implemented in medical-surgical settings using models for evidence-based practice.
 
-tags:
-- Source Themes
+tags: ["Ultrasound", "IV", "EBP"]
+
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: ''
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -46,7 +52,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: '© Nevit Dilmen, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons'
   focal_point: ""
   preview_only: false
 
@@ -62,7 +68,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ''
 ---
 
 {{% callout note %}}
