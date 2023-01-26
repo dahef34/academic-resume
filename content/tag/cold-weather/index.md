@@ -9,4 +9,3 @@ _build:
   list: never
 ---
 
-[Breastfeeding Article]{{< ref "/publication/journal-article-2">}}
