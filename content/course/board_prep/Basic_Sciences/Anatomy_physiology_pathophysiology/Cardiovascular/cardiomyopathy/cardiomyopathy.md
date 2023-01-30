@@ -29,11 +29,44 @@ The primary determinants of systolic function are cardiac output(stroke volume X
 
 The law of Laplace, also known as Laplace's law, states that the pressure exerted by the walls of an organ or vessel is directly proportional to the tension of those walls and inversely proportional to the radius of the organ or vessel. In other words, it states that the internal pressure of a spherical vessel is proportional to the radius and the tension of the walls.
 
+{{< callout info >}}
+{{< spoiler text = "What is the formula for cardiac output?" >}}
+{{< math >}}
+$$
+CO_{[L/min]} = SV_{[L/beat]} * HR_{[beats/min]}
+$$
+{{< /math >}}
+{{< /spoiler >}}
+{{< /callout >}}
+
+{{< callout >}}
+{{< spoiler text = "What are the factors affecting stroke volume and heart rate?" >}}
+{{< figure src="CO_factors.jpeg" caption="OpenStax College, CC BY 3.0 https://Creativecommons.org/licenses/by/3.0, via Wikimedia Commons" >}}
+{{< /spoiler >}}
+{{< /callout >}}
+
+{{< callout info >}}
+{{< spoiler text = "What is the formula for the fick principle?" >}}
+{{< math >}}
+$$
+CO = \frac {VO_2}{C_a - C_v}
+$$
+$$
+CO = \frac {oxygen\ consumption}{arteriovenous\ oxygen\ difference}
+$$
+{{< /math >}}
+{{< /spoiler >}}
+{{< /callout >}}
+
+{{< callout >}}
+{{< spoiler text = "What is the formula for the law of laplace?" >}}
 {{< math >}}
 $$
 Wall\ Tension = Pressure * Radius
 $$
 {{< /math >}}
+{{< /spoiler >}}
+{{< /callout >}}
 
 ### Myocardial Contractility
 
@@ -51,9 +84,38 @@ Dilated cardiomyopathy (DCM) is a type of cardiomyopathy in which the heart beco
 
 DCM can be caused by a variety of factors, including viral infections, genetic mutations, high blood pressure, alcohol or drug abuse, and other underlying medical conditions such as diabetes and thyroid disease. The symptoms of DCM include shortness of breath, fatigue, chest pain, and swelling in the legs and feet.
 
-Treatment options for DCM may include medications such as ACE inhibitors, beta-blockers, diuretics, and anticoagulants, and in severe cases, a heart transplant. Lifestyle changes such as quitting smoking, maintaining a healthy diet, and regular physical activity, can also help improve symptoms and slow down the progression of the disease.
+***Treatment Options*** [^14]
+1.  ACE inhibitors
+    - Inhibit RAS
+    - Slow disease progression
+    - Reduce mortality
+    - Improve exercise tolerance and dyspnea
+2.  ARBs
+    - If intolerant to ACE
+3.  Beta blockers
+    - Reduced mortality
+4.  Aldosterone inhibitors
+    - Reduce mortality
+5.  Atrial natriuretic peptides
+    - Diuresis, natriuresis, and vasodilation
+6.  Non-medical management
+    - Partial left ventriculectomy
+    - LVAD
+    - ICDs
+    - Pacemaker
+    - Heart transplant
 
+#### DCM Management
+1.  Preoperative - Maintain medical therapy, treat arrhythmias, and review latest echo to assess for valvular anomaly.
+2.  Intraoperative 
+    - Avoid myocardial depression, maintain preload, prevent increases in afterload (SVR), avoid tachycardia, and induce slowly.  If neuraxial is utilized, take care to prevent hypotension that could result in myocardial hypoperfusion.
+    - Consider arterial and central venous catheters.
+    - Etomidate is preferrable, but propofol may be useful in reducing SVR.
+    - Avoid ketamine and high doses of volatiles.  Opioids may be useful in providing a balanced anesthetic.
 
+{{< callout info >}}
+Predictors of poor outcomes: EF <  20%, elevated LVEDP, left ventricular hypokinesia, and VT.
+{{< /callout >}}
 ### Hypertrophic Cardiomyopathy
 
 Hypertrophic cardiomyopathy (HCM) is a type of cardiomyopathy in which the heart muscle becomes thickened, especially the muscle of the left ventricle. This thickening can make it harder for the heart to pump blood, and can also cause obstruction of blood flow out of the heart. It's a genetic disorder caused by mutations in genes encoding sarcomeric proteins, that leads to abnormal cardiac muscle growth, and it's the most common genetic heart disease, with prevalence of about 1 in 500 people.
@@ -62,6 +124,24 @@ Symptoms of HCM can vary widely, and some people may not have any symptoms at al
 
 Treatment options may include medications, such as beta-blockers, and in severe cases, surgery to remove a portion of the thickened heart muscle or to create a bypass around the obstruction to improve blood flow.
 
+Risk factors for sudden cardiac death include:
+1.  Previous cardiac arrest.
+2.  Sponstaneous sustained VT.
+3.  Family history of sudden death.
+4.  Non-sustained ventricular tachycardia.
+5.  Syncope.
+6.  LVH > 30mm
+7.  Abnormal BP response to exercise.
+
+#### HOCM Management
+
+- Maintain adequate preload and afterload
+- Maintain SVR
+- Avoid sympathetic activation
+- Reduce contractility
+- Avoid tachycardia and maintain SR
+- Treat hypotension with IV fluids and alpha-adrenergic agonists
+- General anestehsia is preferrable over neuraxial to avoid sympathectomy.
 
 ### Restrictive Cardiomyopathy
 
@@ -71,7 +151,11 @@ RCM can be caused by a variety of underlying medical conditions, including amylo
 
 Treatment options for RCM may include medications such as diuretics and other medications to improve heart function, and in severe cases, a heart transplant. Lifestyle changes such as maintaining a healthy diet, regular physical activity, and quitting smoking can also help improve symptoms and slow down the progression of the disease.
 
-
+#### Restrictive HF Management
+1.  Maintain adequate preload
+2.  Maintain SVR
+3.  Maintain sinus rhythm
+4.  Prefer etomidate or ketamine to reduce myocardial depression
 
 ### References
 
@@ -88,3 +172,4 @@ Treatment options for RCM may include medications such as diuretics and other me
 [^11]: <span style="color:maroon">Hines RL, Jones SB, eds. Stoelting's Anesthesia and Co-existing Disease. 8th edition. Elsevier; 2021.</span>
 [^12]: <span style="color:aquamarine">Jaffe RA, Schmiesing CA, Golianu B. Anesthesiologist's Manual of Surgical Procedures. 6th ed. Wolters Kluwer; 2020.</span>
 [^13]: <span style="color:darkgreen">Nagelhout JJ, Elisha S, Heiner JS, eds. Nurse Anesthesia. 7th edition. Elsevier; 2020.</span>
+[^14]: Ibrahim Rasmi Ibrahim, MBChB FRCA, Vivek Sharma, MBBS MD FRCA, Cardiomyopathy and anaesthesia, BJA Education, Volume 17, Issue 11, November 2017, Pages 363–369, https://doi.org/10.1093/bjaed/mkx022
