@@ -1,11 +1,9 @@
 ---
 title: ❤️‍🩹 Congenital heart defects
 date: '2022-12-02'
-type: docs
+type: book
 weight: 102
-_build:
-  render: always
-  list: never
+
 show_breadcrumb: true
 ---
 
@@ -98,9 +96,9 @@ READING: Cote [^3] p. 468
 
 
 
-[Previous - Valvular heart disease]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/valvular_heart_disease/valvular.md" >}})
+[Previous - Valvular heart disease]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/valvular_heart_disease/" >}})
 <br><br>
-[Next - Cardiac conduction and rhythm abnormalities]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/conduction/conduction.md" >}})
+[Next - Cardiac conduction and rhythm abnormalities]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/conduction/" >}})
 
 
 ### References

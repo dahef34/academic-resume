@@ -1,12 +1,10 @@
 ---
-title: Non-Obstetric Surgery
+title: Obstetric Complications
 date: '2022-12-02'
-type: docs
+type: book
 weight: 101
 commentable: true
-_build:
-  render: always
-  list: never
+
 show_breadcrumb: true
 #image:
 #  placement: 3
@@ -19,16 +17,16 @@ show_breadcrumb: true
 ---
 
 
-## Anatomy
-
-## Physiology
-
-## Pathophysiology
+## Fetal monitoring
 
 
-[Previous - Ischemic heart disease]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/ischemic_heart_disease/ihd.md" >}})
-<br>  
-[Next - Congenital heart defects]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/congenital_heart_defects/congenital.md" >}})
+## Preeclampsia
+
+
+## Abnormal uterine implantation
+
+
+
 
 ### References
 

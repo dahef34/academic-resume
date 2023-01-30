@@ -1,13 +1,11 @@
 ---
-title: 🗂 Renal System Chapter
+title: 🗂 Renal System
 date: '2022-12-02'
-type: docs
+type: book
 weight: 699
 commentable: true
 show_breadcrumb: true
-_build:
-  render: always
-  list: never
+
 ---
 
 - [Primary kidney diseases and disorders]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Renal/kidney_disease/kidney_disease.md" >}}) 

@@ -1,17 +1,14 @@
 ---
-title: 🗂 Cardiovascular System Chapter
+title: 🗂 Cardiovascular System
 date: '2022-12-02'
-type: docs
+type: book
 weight: 99
 commentable: true
 show_breadcrumb: true
-_build:
-  render: always
-  list: never
 ---
 
 
-- [Ischemic heart disease]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/ischemic_heart_disease/ihd.md" >}})  
+- [Ischemic heart disease]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/ischemic_heart_disease/ischemic.md" >}})  
 - [Valvular heart disease]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/valvular_heart_disease/valvular.md" >}})
 - [Congenital heart defects]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/congenital_heart_defects/congenital.md" >}})
 - [Cardiac conduction and rhythm abnormalities]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/conduction/conduction.md" >}})

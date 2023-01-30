@@ -1,13 +1,11 @@
 ---
-title: 🗂 Endocrine System Chapter
+title: 🗂 Endocrine System
 date: '2022-12-02'
-type: docs
+type: book
 weight: 499
 commentable: true
 show_breadcrumb: true
-_build:
-  render: always
-  list: never
+
 ---
 
 - [Thyroid and parathyroid disorders]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Endocrine/thyroid/thyroid.md" >}}) 

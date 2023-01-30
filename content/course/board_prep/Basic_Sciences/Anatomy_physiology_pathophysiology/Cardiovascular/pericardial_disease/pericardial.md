@@ -1,12 +1,10 @@
 ---
 title: ❤️‍🩹 Pericardial diseases
 date: '2022-12-02'
-type: docs
+type: book
 weight: 106
 commentable: true
-_build:
-  render: always
-  list: never
+
 show_breadcrumb: true
 ---
 
@@ -35,9 +33,9 @@ Cardiac tamponade is a continuation of pericardial effusion where all cardiac ch
 ## Constrictive pericarditis
 Constrictive pericarditis can be idiopathic, a sequelae of cardiac surgery or mediastinal radiation therapy, or from tuberculosis.  This generally presents as diastolic heart failure with preserved systolic function.  Restrictive cardiomyopathy, which is more rare can originate from sarcoidosis, amyloidosis, endomyocardial fibrosis, or radiation and results in a rigid myocardium with a decrease in myocardial compliance.
 
-[Previous - Infectious diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/infectious_disease/infectious.md" >}})
+[Previous - Infectious diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/infectious_disease/" >}})
 <br><br>
-[Next - Cardiomyopathy and heart failure]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/cardiomyopathy/cardiomyopathy.md" >}})
+[Next - Cardiomyopathy and heart failure]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/cardiomyopathy/" >}})
 
 ### References
 

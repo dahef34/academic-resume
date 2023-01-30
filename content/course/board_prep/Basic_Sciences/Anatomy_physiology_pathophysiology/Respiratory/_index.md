@@ -1,13 +1,11 @@
 ---
-title: 🗂 Respiratory System Chapter
+title: 🗂 Respiratory System
 date: '2022-12-02'
-type: docs
-weight: 199
+type: book
+weight: 799
 commentable: true
 show_breadcrumb: true
-_build:
-  render: always
-  list: never
+
 ---
 
 - [Obstructive diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Respiratory/obstructive_diseases/obstructive_diseases.md" >}})

@@ -3,7 +3,7 @@ title: 📊 Board Prep Study Materials
 linkTitle: Board Prep Study Materials
 summary: Simple board prep study materials for students
 date: '2022-12-02'
-type: docs
+type: book
 tags:
   - prep
 weight: 10
@@ -13,6 +13,7 @@ toc: false
 show_breadcrumb: true
 pager: true
 ---
+
 
 Use the links below as well as the bread crumbs above to navigate the content.  The bibliography below will be listed for references in each of the sections.
 
@@ -35,14 +36,14 @@ Use the links below as well as the bread crumbs above to navigate the content.  
 
 # ***Basic Sciences (25%)***
 ### Anatomy, physiology and pathophysiology
-1. [Cardiovascular]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular" >}})
-2. [Respiratory]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Respiratory" >}})
-3. [Central nervous system]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/CNS" >}})
-4. [Musculoskeletal]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Musculoskeletal" >}})
-5. [Endocrine]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Endocrine" >}})
-6. [Hepatic]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Hepatic" >}})
-7. [Renal]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Renal" >}})
-8. [Hematologic]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Hematologic" >}}) 
+1. [Cardiovascular]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/" >}})
+2. [Respiratory]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Respiratory/respiratory.md" >}})
+3. [Central nervous system]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/CNS/cns.md" >}})
+4. [Musculoskeletal]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Musculoskeletal/musculoskeletal.md" >}})
+5. [Endocrine]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Endocrine/endocrine.md" >}})
+6. [Hepatic]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Hepatic/hepatic.md" >}})
+7. [Renal]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Renal/renal.md" >}})
+8. [Hematologic]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Hematologic/hematologic.md" >}}) 
 9. Gastrointestinal
     - Esophageal disorders
     - Gastric disorders
@@ -371,14 +372,14 @@ Use the links below as well as the bread crumbs above to navigate the content.  
     - Pharmacology
     - Anesthesia techniques/procedures
     - Management of complications
-2. [Obstetrics]({{< ref "/course/board_prep/Special_populations/Obstetrics/anatomy_physiology" >}})
+2. [Obstetrics]({{< ref "/course/board_prep/Special_populations/Obstetrics/anatomy_physiology/anatomy.md" >}})
     - Anatomy, physiology, and pathophysiology 
     - Pharmacology
     - Anesthesia techniques/procedures
     - High-risk parturients
     - Nonobstetric surgery in the parturient
     - Management of complications
-3. [Geriatrics]({{< ref "/course/board_prep/Special_populations/Geriatric" >}}) 
+3. [Geriatrics]({{< ref "/course/board_prep/Special_populations/Geriatric/geriatrics.md" >}}) 
     - Anatomy, physiology, and pathophysiology 
     - Pharmacology
     - Anesthesia techniques/procedures
@@ -388,3 +389,4 @@ Use the links below as well as the bread crumbs above to navigate the content.  
     - Pharmacology
     - Anesthesia techniques/procedures (including bariatric) 
     - Management of complications
+

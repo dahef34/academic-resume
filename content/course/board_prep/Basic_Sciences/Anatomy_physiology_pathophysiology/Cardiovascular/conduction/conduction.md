@@ -1,12 +1,10 @@
 ---
 title: ❤️‍🩹 Cardiac conduction and rhythm abnormalities
 date: '2022-12-02'
-type: docs
+type: book
 weight: 103
 commentable: true
-_build:
-  render: always
-  list: never
+
 show_breadcrumb: true
 ---
 
@@ -106,9 +104,10 @@ Indications for ICD include[^1]
 9.  Last pacing threshhold
 
 
-[Previous - Congenital heart defects]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/congenital_heart_defects/congenital.md" >}})
+
+[Previous - Congenital heart defects]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/congenital_heart_defects/" >}})
 <br><br>
-[Next - Cardiovascular and peripheral vascular complications]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/cardiovascular_complications/complications.md" >}}) 
+[Next - Cardiovascular and peripheral vascular complications]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/cardiovascular_complications/" >}}) 
 
 ### References
 

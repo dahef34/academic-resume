@@ -1,12 +1,9 @@
 ---
 title: ❤️‍🩹 Cardiomyopathy and heart failure
 date: '2022-12-02'
-type: docs
+type: book
 weight: 107
 commentable: true
-_build:
-  render: always
-  list: never
 show_breadcrumb: true
 ---
 
@@ -75,9 +72,6 @@ RCM can be caused by a variety of underlying medical conditions, including amylo
 Treatment options for RCM may include medications such as diuretics and other medications to improve heart function, and in severe cases, a heart transplant. Lifestyle changes such as maintaining a healthy diet, regular physical activity, and quitting smoking can also help improve symptoms and slow down the progression of the disease.
 
 
-[Previous - Pericardial diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/pericardial_disease/pericardial.md" >}})
-<br><br>
-[Next - Respiratory Disease]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Respiratory/" >}})
 
 ### References
 

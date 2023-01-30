@@ -3,7 +3,7 @@ title: 📊 One Lung Ventilation
 linkTitle: One Lung Ventilation
 summary: Review of the double lumen tubes and one lung ventilation
 date: '2022-12-02'
-type: docs
+type: book
 
 weight: 20
 ---
