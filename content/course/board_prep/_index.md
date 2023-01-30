@@ -37,13 +37,13 @@ Use the links below as well as the bread crumbs above to navigate the content.  
 # ***Basic Sciences (25%)***
 ### Anatomy, physiology and pathophysiology
 1. [Cardiovascular]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/" >}})
-2. [Respiratory]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Respiratory/respiratory.md" >}})
-3. [Central nervous system]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/CNS/cns.md" >}})
-4. [Musculoskeletal]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Musculoskeletal/musculoskeletal.md" >}})
-5. [Endocrine]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Endocrine/endocrine.md" >}})
-6. [Hepatic]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Hepatic/hepatic.md" >}})
-7. [Renal]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Renal/renal.md" >}})
-8. [Hematologic]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Hematologic/hematologic.md" >}}) 
+2. [Respiratory]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Respiratory/" >}})
+3. [Central nervous system]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/CNS/" >}})
+4. [Musculoskeletal]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Musculoskeletal/" >}})
+5. [Endocrine]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Endocrine/" >}})
+6. [Hepatic]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Hepatic/" >}})
+7. [Renal]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Renal/" >}})
+8. [Hematologic]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Hematologic/" >}}) 
 9. Gastrointestinal
     - Esophageal disorders
     - Gastric disorders
@@ -61,7 +61,7 @@ Use the links below as well as the bread crumbs above to navigate the content.  
     - Burns
     - Trauma
     - Substance abuse (alcohol, tobacco, other)
-    - [Autonomic Nervous System]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Other/autonomic_nervous.md" >}}) 
+    - [Autonomic Nervous System]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Other/" >}}) 
     
 
 ### Pharmacology
