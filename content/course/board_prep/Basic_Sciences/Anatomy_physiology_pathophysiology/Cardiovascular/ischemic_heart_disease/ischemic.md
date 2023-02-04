@@ -4,7 +4,7 @@ date: '2022-12-02'
 type: book
 weight: 121
 commentable: true
-
+pager: true
 show_breadcrumb: true
 ---
 
@@ -69,7 +69,9 @@ Clinical risk factors for a perioperative major adverse cardiac event (MACE) inc
 
 
 
-[Next - Valvular heart disease]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/valvular_heart_disease/" >}})
+
+
+
 
 ### References
 

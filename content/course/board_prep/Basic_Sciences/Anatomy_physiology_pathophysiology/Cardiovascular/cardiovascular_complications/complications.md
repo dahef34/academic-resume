@@ -85,11 +85,8 @@ Angiography and spiral or helical CT scanning are the gold standard for detectin
 
 Typically patients are manged with pharmacologic treatment and/or mechanical prophylaxis such as an IVC filter.  IVC filters are controversial and problematic since they tend to be less efficacious than pharmacologic prophylaxis and there is an increased incidence of recurrent DVT with their use. 
 
-[Previous - Cardiac conduction and rhythm abnormalities]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/conduction/conduction.md" >}})
-<br><br>
-[Next - Infectious diseases]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/infectious_disease/infectious.md" >}})
 
-## References
+
 
 ### References
 

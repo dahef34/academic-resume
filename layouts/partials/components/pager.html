@@ -1,6 +1,7 @@
 {{ $str := "" }}
 <div class="post-nav">
   {{if .NextInSection}}
+  
   {{/* For the Book layout, prev/next labels are reversed. */}}
   {{ if in (slice "docs" "book") .Type }}{{ $str = "previous" }}{{else}}{{ $str = "next" }}{{end}}
   <div class="post-nav-item">

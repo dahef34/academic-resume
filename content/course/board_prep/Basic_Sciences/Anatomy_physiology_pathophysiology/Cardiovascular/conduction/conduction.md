@@ -105,9 +105,7 @@ Indications for ICD include[^1]
 
 
 
-[Previous - Congenital heart defects]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/congenital_heart_defects/" >}})
-<br><br>
-[Next - Cardiovascular and peripheral vascular complications]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/cardiovascular_complications/" >}}) 
+
 
 ### References
 

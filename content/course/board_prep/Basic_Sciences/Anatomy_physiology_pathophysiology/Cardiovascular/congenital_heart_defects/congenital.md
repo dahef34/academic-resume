@@ -96,9 +96,7 @@ READING: Cote [^3] p. 468
 
 
 
-[Previous - Valvular heart disease]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/valvular_heart_disease/" >}})
-<br><br>
-[Next - Cardiac conduction and rhythm abnormalities]({{< ref "/course/board_prep/Basic_Sciences/Anatomy_physiology_pathophysiology/Cardiovascular/conduction/" >}})
+
 
 
 ### References
